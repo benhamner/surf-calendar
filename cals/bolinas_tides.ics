@@ -1,0 +1,1195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+X-WR-CALNAME:Bolinas Tides
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:54PM to 6:18PM\n\n    Sunrise is at 7:02AM\n    Sunset is at 7:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220329T013000Z
+DTSTART:20220328T220000Z
+SUMMARY:Bolinas LT -0.5ft @ 4:36PM
+UID:4c0f08e2-9df3-471f-a656-ccd347c7a750@4c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:00AM to 7:36AM\n\n    Sunrise is at 6:34AM\n    Sunset is at 7:48PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220416T143000Z
+DTSTART:20220416T133000Z
+SUMMARY:Bolinas LT 0.2ft @ 6:48AM
+UID:4e5a8e6d-a1b1-44e2-b14f-31d0a890cbb4@4e5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:00AM to 8:24AM\n\n    Sunrise is at 5:59AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220712T153000Z
+DTSTART:20220712T130000Z
+SUMMARY:Bolinas LT -0.9ft @ 6:18AM
+UID:d8a30cbe-5749-4a32-a582-1c8dc6c712b5@d8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42AM to 9:18AM\n\n    Sunrise is at 5:59AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220713T163000Z
+DTSTART:20220713T130000Z
+SUMMARY:Bolinas LT -1.1ft @ 7:06AM
+UID:1a126002-915d-459b-a308-e481e16e30e8@1a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:12PM to 6:30PM\n\n    Sunrise is at 7:03AM\n    Sunset is at 5:48PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220214T020000Z
+DTSTART:20220213T230000Z
+SUMMARY:Bolinas LT -0.4ft @ 4:54PM
+UID:6db2b2ab-b490-4f4d-bf65-7d2c5248cd5c@6db2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:18PM to 7:36PM\n\n    Sunrise is at 7:00AM\n    Sunset is at 5:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220216T020000Z
+DTSTART:20220216T003000Z
+SUMMARY:Bolinas LT -0.4ft @ 6:00PM
+UID:f1077081-91e0-4366-8589-c7b6336d90f4@f107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:42PM to 7:48PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 7:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220318T023000Z
+DTSTART:20220318T003000Z
+SUMMARY:Bolinas LT 0.0ft @ 6:48PM
+UID:6dec2c59-6ca8-4195-8a1c-3630d914bddf@6dec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:54AM to 8:12AM\n\n    Sunrise is at 6:37AM\n    Sunset is at 7:46PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220828T150000Z
+DTSTART:20220828T140000Z
+SUMMARY:Bolinas LT 0.2ft @ 7:36AM
+UID:79518b2c-6d68-43cf-ac03-a2a47054e86a@7951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:06AM to 9:48AM\n\n    Sunrise is at 6:25AM\n    Sunset is at 8:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220814T170000Z
+DTSTART:20220814T140000Z
+SUMMARY:Bolinas LT -0.2ft @ 8:30AM
+UID:1e816b8c-667a-4f4f-81a1-5b392884371a@1e81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:06AM to 9:12AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220628T160000Z
+DTSTART:20220628T130000Z
+SUMMARY:Bolinas LT -0.7ft @ 7:12AM
+UID:f9d6f666-7dd5-46fe-94f7-6c5fc8f09cde@f9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:36AM to 8:30AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220627T153000Z
+DTSTART:20220627T130000Z
+SUMMARY:Bolinas LT -0.6ft @ 6:30AM
+UID:9e8bc621-d8cd-4a01-925f-65e7adfc83f6@9e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:36PM to 5:18PM\n\n    Sunrise is at 6:42AM\n    Sunset is at 5:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221107T010000Z
+DTSTART:20221107T003000Z
+SUMMARY:Bolinas LT 0.3ft @ 4:54PM
+UID:20a0acf8-5ebc-4243-abbe-da7d3dee2195@20a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:12PM to 3:36PM\n\n    Sunrise is at 7:06AM\n    Sunset is at 7:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220325T223000Z
+DTSTART:20220325T190000Z
+SUMMARY:Bolinas LT -0.3ft @ 2:00PM
+UID:aa14da0b-196c-4cf1-971b-2e817d06fcea@aa14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:54PM to 7:30PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 7:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220319T023000Z
+DTSTART:20220319T020000Z
+SUMMARY:Bolinas LT 0.3ft @ 7:12PM
+UID:7d00c87c-7b15-4c44-bb7d-81e5cbb2e758@7d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:18PM to 7:24PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 5:32PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220131T013000Z
+DTSTART:20220130T233000Z
+SUMMARY:Bolinas LT -0.9ft @ 5:24PM
+UID:c5f831be-3711-4ac3-81ac-0a108889e95f@c5f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:18AM to 9:30AM\n\n    Sunrise is at 6:24AM\n    Sunset is at 8:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220813T163000Z
+DTSTART:20220813T133000Z
+SUMMARY:Bolinas LT -0.5ft @ 8:00AM
+UID:41dad284-e22e-4d2f-9889-7da5cb403563@41da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:24AM to 12:24PM\n\n    Sunrise is at 5:57AM\n    Sunset is at 8:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220519T193000Z
+DTSTART:20220519T143000Z
+SUMMARY:Bolinas LT -1.1ft @ 10:00AM
+UID:9e4d3d9a-19f3-4410-b648-3d0910d14a69@9e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:12AM to 6:30AM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220527T133000Z
+DTSTART:20220527T130000Z
+SUMMARY:Bolinas LT -0.0ft @ 5:18AM
+UID:3fe45a98-af97-4f59-a9f0-433e04a289d6@3fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:06AM to 1:48PM\n\n    Sunrise is at 6:08AM\n    Sunset is at 8:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220507T210000Z
+DTSTART:20220507T170000Z
+SUMMARY:Bolinas LT -0.2ft @ 12:06PM
+UID:0a955b2d-cdfc-4853-a2a0-6d0a8fe3386d@0a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:48AM to 8:18AM\n\n    Sunrise is at 6:16AM\n    Sunset is at 8:01PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220430T153000Z
+DTSTART:20220430T133000Z
+SUMMARY:Bolinas LT -0.1ft @ 7:06AM
+UID:af299c7b-e304-4fbe-a373-68e65a3125d3@af29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:00AM to 1:00PM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220619T200000Z
+DTSTART:20220619T160000Z
+SUMMARY:Bolinas LT -0.6ft @ 11:12AM
+UID:b5c1e7bc-a6dd-4715-ba20-9116e8820f49@b5c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:12PM to 7:54PM\n\n    Sunrise is at 7:00AM\n    Sunset is at 4:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221124T010000Z
+DTSTART:20221124T000000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:12PM
+UID:346a26b9-4999-4560-aa33-f63be9abeee8@346a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:12PM to 7:12PM\n\n    Sunrise is at 7:22AM\n    Sunset is at 7:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220316T020000Z
+DTSTART:20220315T230000Z
+SUMMARY:Bolinas LT -0.2ft @ 5:48PM
+UID:575a81be-6ed3-4ee2-9370-df2c21c15087@575a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:48PM to 3:54PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 5:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220128T000000Z
+DTSTART:20220127T220000Z
+SUMMARY:Bolinas LT 0.1ft @ 2:48PM
+UID:9b2b4eda-0a76-4a8d-b265-41f036c4ed62@9b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:00AM to 11:48AM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220705T190000Z
+DTSTART:20220705T170000Z
+SUMMARY:Bolinas LT 0.2ft @ 10:54AM
+UID:49f90afd-33db-4a98-b5b7-0411bac5be73@49f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:54PM to 8:00PM\n\n    Sunrise is at 6:59AM\n    Sunset is at 5:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220217T020000Z
+DTSTART:20220217T010000Z
+SUMMARY:Bolinas LT -0.3ft @ 6:30PM
+UID:2dbb5964-4795-4ed5-a0d3-69efc84f787a@2dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:54AM to 1:18PM\n\n    Sunrise is at 6:27AM\n    Sunset is at 7:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220421T203000Z
+DTSTART:20220421T160000Z
+SUMMARY:Bolinas LT -0.6ft @ 11:18AM
+UID:2151909b-2dcb-4a23-8dca-a35151a84c9b@2151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:24PM to 4:06PM\n\n    Sunrise is at 6:23AM\n    Sunset is at 7:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220424T230000Z
+DTSTART:20220424T193000Z
+SUMMARY:Bolinas LT -0.5ft @ 2:18PM
+UID:b5080f8d-3169-4773-aafb-594c1ae430d5@b508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:36AM to 1:18PM\n\n    Sunrise is at 6:47AM\n    Sunset is at 7:39PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220407T203000Z
+DTSTART:20220407T173000Z
+SUMMARY:Bolinas LT 0.0ft @ 12:00PM
+UID:22dc50dd-2d4f-422e-b456-08712eb14e80@22dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:06AM to 9:36AM\n\n    Sunrise is at 6:00AM\n    Sunset is at 8:15PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220516T163000Z
+DTSTART:20220516T130000Z
+SUMMARY:Bolinas LT -0.8ft @ 7:36AM
+UID:5da1e112-9a7e-4cbd-b527-5d7425af6fa3@5da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:48PM to 3:00PM\n\n    Sunrise is at 6:28AM\n    Sunset is at 6:14PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220311T230000Z
+DTSTART:20220311T210000Z
+SUMMARY:Bolinas LT 0.1ft @ 1:54PM
+UID:7f2ef3c8-557f-4424-98cd-1872c0db2ed8@7f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:12AM to 11:54AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:35PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220617T190000Z
+DTSTART:20220617T140000Z
+SUMMARY:Bolinas LT -1.1ft @ 9:42AM
+UID:0f11acac-31e3-4510-8ac9-c24aafe0f0c5@0f11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:24AM to 7:48AM\n\n    Sunrise is at 6:36AM\n    Sunset is at 7:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220826T150000Z
+DTSTART:20220826T133000Z
+SUMMARY:Bolinas LT -0.1ft @ 6:42AM
+UID:4dcee1ac-be05-48b1-909e-f2085dbdb18d@4dce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:00PM to 5:42PM\n\n    Sunrise is at 7:22AM\n    Sunset is at 4:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221221T010000Z
+DTSTART:20221220T230000Z
+SUMMARY:Bolinas LT -0.1ft @ 4:24PM
+UID:a64a5fd7-916d-4a3a-8d29-bacd4a980dc6@a64a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:00PM to 7:06PM\n\n    Sunrise is at 7:12AM\n    Sunset is at 4:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221207T010000Z
+DTSTART:20221207T000000Z
+SUMMARY:Bolinas LT -0.4ft @ 5:36PM
+UID:214c97d0-1b87-41b9-b1e0-5e67e67e0397@214c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:36PM to 6:36PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 5:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220130T013000Z
+DTSTART:20220129T223000Z
+SUMMARY:Bolinas LT -0.7ft @ 4:42PM
+UID:f573b3cb-f2b8-46f6-9213-83d26206b8b7@f573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:36AM to 7:48AM\n\n    Sunrise is at 6:48AM\n    Sunset is at 7:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220910T150000Z
+DTSTART:20220910T140000Z
+SUMMARY:Bolinas LT -0.1ft @ 6:42AM
+UID:54e4e453-6c69-475f-9307-9ed644c50a94@54e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:12PM to 7:42PM\n\n    Sunrise is at 7:25AM\n    Sunset is at 5:17PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220117T010000Z
+DTSTART:20220117T000000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:00PM
+UID:7bf1be42-e1f8-455a-8d29-9fff9743c6d4@7bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:06PM to 4:54PM\n\n    Sunrise is at 6:41AM\n    Sunset is at 7:43PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220412T000000Z
+DTSTART:20220411T210000Z
+SUMMARY:Bolinas LT -0.1ft @ 3:36PM
+UID:6667d743-4e32-4f51-a652-cdb9c2760353@6667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:42AM to 10:36AM\n\n    Sunrise is at 5:59AM\n    Sunset is at 8:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220517T173000Z
+DTSTART:20220517T130000Z
+SUMMARY:Bolinas LT -1.1ft @ 8:24AM
+UID:70f885c9-6f6a-4042-822a-9dfe10a7e42d@70f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:00AM to 11:24AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220602T183000Z
+DTSTART:20220602T140000Z
+SUMMARY:Bolinas LT -0.7ft @ 9:24AM
+UID:2c26550b-a36a-494e-8fe2-2348ba2651e8@2c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:36AM to 10:06AM\n\n    Sunrise is at 6:13AM\n    Sunset is at 8:02PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220502T170000Z
+DTSTART:20220502T133000Z
+SUMMARY:Bolinas LT -0.4ft @ 8:30AM
+UID:8739d0da-3bdc-4108-8dd1-06c0dbea9304@8739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:00AM to 9:00AM\n\n    Sunrise is at 6:32AM\n    Sunset is at 7:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220417T160000Z
+DTSTART:20220417T133000Z
+SUMMARY:Bolinas LT -0.2ft @ 7:36AM
+UID:e8ee3fca-6aca-47ce-9645-a0195347c7c4@e8ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:00AM to 8:24AM\n\n    Sunrise is at 6:10AM\n    Sunset is at 8:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220727T153000Z
+DTSTART:20220727T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:42AM
+UID:a9dcbae8-58d1-49f1-b271-69ae50ed73b1@a9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:24AM to 1:54PM\n\n    Sunrise is at 5:56AM\n    Sunset is at 8:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220521T210000Z
+DTSTART:20220521T163000Z
+SUMMARY:Bolinas LT -0.8ft @ 11:48AM
+UID:8159bd7e-1163-4d82-bb7a-94fd8cfe61de@8159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:06AM to 8:42AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220613T153000Z
+DTSTART:20220613T130000Z
+SUMMARY:Bolinas LT -0.9ft @ 6:36AM
+UID:74c9fae3-4bfe-4567-9c2c-5a593f1d7beb@74c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:54AM to 10:12AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220531T170000Z
+DTSTART:20220531T130000Z
+SUMMARY:Bolinas LT -0.7ft @ 8:12AM
+UID:2854877a-ec23-45ed-a6c6-3d3c8c566428@2854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:36PM to 5:30PM\n\n    Sunrise is at 6:19AM\n    Sunset is at 7:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220428T003000Z
+DTSTART:20220427T223000Z
+SUMMARY:Bolinas LT 0.1ft @ 4:36PM
+UID:a204914a-d0f9-45fc-8ab6-3f25f0f0c158@a204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:24PM to 4:42PM\n\n    Sunrise is at 6:22AM\n    Sunset is at 7:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220425T233000Z
+DTSTART:20220425T203000Z
+SUMMARY:Bolinas LT -0.3ft @ 3:12PM
+UID:9123b576-5d8e-4369-a1c5-d6da921584fa@9123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:00AM to 8:42AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220529T153000Z
+DTSTART:20220529T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:54AM
+UID:95472f6c-e387-46f3-a845-8d8bd072083a@9547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:06AM to 12:30PM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220618T193000Z
+DTSTART:20220618T150000Z
+SUMMARY:Bolinas LT -0.9ft @ 10:24AM
+UID:f44ca58a-6bdd-4596-a92e-32d764f90a8c@f44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:36AM to 6:36AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220625T133000Z
+DTSTART:20220625T130000Z
+SUMMARY:Bolinas LT -0.2ft @ 5:00AM
+UID:55f77602-7dea-44ee-8f2f-ab37b27ec2b2@55f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:18PM to 7:00PM\n\n    Sunrise is at 7:23AM\n    Sunset is at 4:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221222T010000Z
+DTSTART:20221221T233000Z
+SUMMARY:Bolinas LT -0.5ft @ 5:12PM
+UID:3f73b540-72ea-4e91-b7a2-4f172ad606a2@3f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:18AM to 12:24PM\n\n    Sunrise is at 6:10AM\n    Sunset is at 8:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220505T193000Z
+DTSTART:20220505T153000Z
+SUMMARY:Bolinas LT -0.4ft @ 10:30AM
+UID:744d32dd-532a-4339-9a47-a58ea397c83b@744d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:48AM to 11:48AM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220704T190000Z
+DTSTART:20220704T160000Z
+SUMMARY:Bolinas LT -0.1ft @ 10:24AM
+UID:fa84cee7-3071-4e93-ad97-508aec461d66@fa84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:06AM to 10:06AM\n\n    Sunrise is at 6:14AM\n    Sunset is at 8:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220801T170000Z
+DTSTART:20220801T150000Z
+SUMMARY:Bolinas LT 0.1ft @ 9:06AM
+UID:e239e1e6-1c92-45f8-8344-18c43eb59314@e239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:24AM to 1:12PM\n\n    Sunrise is at 5:57AM\n    Sunset is at 8:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220520T200000Z
+DTSTART:20220520T153000Z
+SUMMARY:Bolinas LT -1.0ft @ 10:54AM
+UID:b5e0e99e-7ced-4f97-b6c7-53482ab833e3@b5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:48AM to 10:42AM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220701T173000Z
+DTSTART:20220701T140000Z
+SUMMARY:Bolinas LT -0.6ft @ 8:54AM
+UID:dd478f72-97be-467a-9113-faecad0b05de@dd47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:18PM to 4:12PM\n\n    Sunrise is at 6:42AM\n    Sunset is at 7:42PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220410T230000Z
+DTSTART:20220410T203000Z
+SUMMARY:Bolinas LT -0.1ft @ 2:48PM
+UID:5dbc52f1-c07e-4c00-bada-9f53454a1416@5dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:24AM to 1:42PM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220607T203000Z
+DTSTART:20220607T183000Z
+SUMMARY:Bolinas LT 0.1ft @ 12:36PM
+UID:eb40d60c-b4ca-45dd-a630-6a59d98fa92e@eb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42PM to 8:36PM\n\n    Sunrise is at 7:15AM\n    Sunset is at 5:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220202T013000Z
+DTSTART:20220202T003000Z
+SUMMARY:Bolinas LT -0.8ft @ 6:48PM
+UID:f6bd9370-a846-422f-9cba-0bbd2ad58da3@f6bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:12AM to 1:06PM\n\n    Sunrise is at 6:09AM\n    Sunset is at 8:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220506T200000Z
+DTSTART:20220506T160000Z
+SUMMARY:Bolinas LT -0.3ft @ 11:18AM
+UID:5c05bc94-15a3-497c-92fb-44800ea0f376@5c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:48PM to 7:06PM\n\n    Sunrise is at 7:02AM\n    Sunset is at 5:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220215T020000Z
+DTSTART:20220215T000000Z
+SUMMARY:Bolinas LT -0.4ft @ 5:30PM
+UID:2791db98-5477-4c58-837b-e6f29bd0c66e@2791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:42AM to 7:30AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220612T143000Z
+DTSTART:20220612T130000Z
+SUMMARY:Bolinas LT -0.4ft @ 5:42AM
+UID:96fc0bf9-ee55-4e7a-8614-ddaa000b8044@96fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:12PM to 4:42PM\n\n    Sunrise is at 7:05AM\n    Sunset is at 7:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220326T233000Z
+DTSTART:20220326T200000Z
+SUMMARY:Bolinas LT -0.4ft @ 3:00PM
+UID:7fb9c805-4249-4a47-a050-8eaa7c3250ae@7fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:12AM to 1:30PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220606T203000Z
+DTSTART:20220606T170000Z
+SUMMARY:Bolinas LT -0.1ft @ 11:54AM
+UID:8b0b75fa-224a-4906-b80e-8f6c5c1aeb33@8b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:48PM to 5:48PM\n\n    Sunrise is at 6:38AM\n    Sunset is at 7:45PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220414T010000Z
+DTSTART:20220413T230000Z
+SUMMARY:Bolinas LT 0.1ft @ 4:54PM
+UID:77482db4-94ec-4bcf-acc1-7e24c07fe281@7748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:00AM to 7:48AM\n\n    Sunrise is at 6:22AM\n    Sunset is at 8:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220810T150000Z
+DTSTART:20220810T133000Z
+SUMMARY:Bolinas LT -0.7ft @ 6:00AM
+UID:bc48fff2-a356-43c8-9762-61ee4a0d8076@bc48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:36PM to 6:36PM\n\n    Sunrise is at 7:23AM\n    Sunset is at 7:17PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220315T013000Z
+DTSTART:20220314T223000Z
+SUMMARY:Bolinas LT -0.3ft @ 5:12PM
+UID:94bf0eaa-baa6-416b-ac46-dbebc82d37fd@94bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:18AM to 11:12AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:35PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220616T180000Z
+DTSTART:20220616T133000Z
+SUMMARY:Bolinas LT -1.3ft @ 8:54AM
+UID:33f6c61d-ab74-42f9-afe5-e7647c09ac10@33f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:30PM to 2:18PM\n\n    Sunrise is at 6:49AM\n    Sunset is at 5:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220224T223000Z
+DTSTART:20220224T203000Z
+SUMMARY:Bolinas LT 0.1ft @ 1:24PM
+UID:9d8e3f63-31e9-4df8-b6ca-0a96b57f48e2@9d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:30PM to 6:06PM\n\n    Sunrise is at 7:11AM\n    Sunset is at 4:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221206T010000Z
+DTSTART:20221205T233000Z
+SUMMARY:Bolinas LT -0.2ft @ 4:48PM
+UID:3ba815cd-95d8-4899-94dd-615e633bbad7@3ba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:42PM to 8:00PM\n\n    Sunrise is at 7:23AM\n    Sunset is at 4:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221223T010000Z
+DTSTART:20221222T233000Z
+SUMMARY:Bolinas LT -0.8ft @ 6:00PM
+UID:d74b76b5-dd45-4779-a17e-759b602b047d@d74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:18AM to 10:00AM\n\n    Sunrise is at 6:13AM\n    Sunset is at 8:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220731T170000Z
+DTSTART:20220731T143000Z
+SUMMARY:Bolinas LT -0.1ft @ 8:42AM
+UID:37bf8cc5-10d9-4390-a764-0d10b502a4fe@37bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:06AM to 2:18PM\n\n    Sunrise is at 6:26AM\n    Sunset is at 7:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220422T213000Z
+DTSTART:20220422T170000Z
+SUMMARY:Bolinas LT -0.6ft @ 12:24PM
+UID:68527409-bcf8-4fc5-a9f1-1fc65cfb3848@6852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:36AM to 7:42AM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220528T143000Z
+DTSTART:20220528T130000Z
+SUMMARY:Bolinas LT -0.3ft @ 6:06AM
+UID:029c3a47-a91a-40fa-9133-9ee772609495@029c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:42AM to 9:48AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220629T170000Z
+DTSTART:20220629T130000Z
+SUMMARY:Bolinas LT -0.7ft @ 7:48AM
+UID:9f5599d9-35f8-46f2-a3b9-552d4920326b@9f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:30PM to 3:18PM\n\n    Sunrise is at 6:44AM\n    Sunset is at 7:41PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220409T223000Z
+DTSTART:20220409T193000Z
+SUMMARY:Bolinas LT -0.1ft @ 2:00PM
+UID:9db032b7-d1ee-4f90-a0c9-47f90dc4e954@9db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:12AM to 10:30AM\n\n    Sunrise is at 6:01AM\n    Sunset is at 8:33PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220715T173000Z
+DTSTART:20220715T130000Z
+SUMMARY:Bolinas LT -1.0ft @ 8:30AM
+UID:d7d95abb-dcc3-44d0-9af0-29c495a4bb34@d7d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:30AM to 7:06AM\n\n    Sunrise is at 6:01AM\n    Sunset is at 8:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220514T140000Z
+DTSTART:20220514T130000Z
+SUMMARY:Bolinas LT -0.1ft @ 5:54AM
+UID:1f596e15-62f3-4448-87bb-2b6804751c20@1f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:48PM to 3:30PM\n\n    Sunrise is at 7:06AM\n    Sunset is at 5:44PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220210T233000Z
+DTSTART:20220210T220000Z
+SUMMARY:Bolinas LT 0.1ft @ 2:36PM
+UID:04bab527-5e46-4de1-8a67-077303623a32@04ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:36PM to 3:42PM\n\n    Sunrise is at 7:26AM\n    Sunset is at 5:12PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220112T233000Z
+DTSTART:20220112T223000Z
+SUMMARY:Bolinas LT 0.2ft @ 3:06PM
+UID:459a157b-5592-4cb8-ad9a-8eed77fdd3d3@459a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:18AM to 3:18PM\n\n    Sunrise is at 6:24AM\n    Sunset is at 7:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220423T223000Z
+DTSTART:20220423T183000Z
+SUMMARY:Bolinas LT -0.5ft @ 1:24PM
+UID:3d6d7a4d-c3a0-4fc3-80e0-d8ab1d2334a9@3d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:30AM to 11:30AM\n\n    Sunrise is at 5:58AM\n    Sunset is at 8:17PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220518T183000Z
+DTSTART:20220518T133000Z
+SUMMARY:Bolinas LT -1.2ft @ 9:12AM
+UID:a69e13c3-4c2b-461b-a6f1-91b9de1db7b4@a69e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:42AM to 9:42AM\n\n    Sunrise is at 6:12AM\n    Sunset is at 8:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220730T163000Z
+DTSTART:20220730T133000Z
+SUMMARY:Bolinas LT -0.3ft @ 8:18AM
+UID:3daee544-b276-4523-9239-f3903a479919@3dae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:24PM to 1:24PM\n\n    Sunrise is at 6:29AM\n    Sunset is at 6:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220310T213000Z
+DTSTART:20220310T203000Z
+SUMMARY:Bolinas LT 0.2ft @ 12:54PM
+UID:197ff3b8-a1c8-42f7-967e-c5e28b936734@197f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:42PM to 3:36PM\n\n    Sunrise is at 6:04AM\n    Sunset is at 8:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220511T223000Z
+DTSTART:20220511T213000Z
+SUMMARY:Bolinas LT 0.3ft @ 3:06PM
+UID:b0b625ed-c16b-43ba-bb90-5d9d71efdb3c@b0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 12:12PM to 3:12PM\n\n    Sunrise is at 6:06AM\n    Sunset is at 8:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220509T220000Z
+DTSTART:20220509T190000Z
+SUMMARY:Bolinas LT -0.1ft @ 1:48PM
+UID:e2f601eb-92aa-4bc2-8ad6-bcaaa755e3f7@e2f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:06PM to 4:48PM\n\n    Sunrise is at 7:05AM\n    Sunset is at 5:45PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220212T010000Z
+DTSTART:20220211T220000Z
+SUMMARY:Bolinas LT -0.1ft @ 3:24PM
+UID:1d5c3e83-cdb4-43a2-8b1a-f3b968ccc9be@1d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42AM to 8:30AM\n\n    Sunrise is at 6:23AM\n    Sunset is at 8:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220811T153000Z
+DTSTART:20220811T133000Z
+SUMMARY:Bolinas LT -0.7ft @ 6:42AM
+UID:16c5e888-cccc-4f16-b4f4-4e16a51b11fe@16c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:18AM to 10:24AM\n\n    Sunrise is at 6:51AM\n    Sunset is at 7:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220404T173000Z
+DTSTART:20220404T153000Z
+SUMMARY:Bolinas LT 0.1ft @ 9:24AM
+UID:fd215c1d-c54d-4b00-8ab2-387a0a345ca0@fd21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:06PM to 6:18PM\n\n    Sunrise is at 7:25AM\n    Sunset is at 5:15PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220115T010000Z
+DTSTART:20220114T230000Z
+SUMMARY:Bolinas LT -0.3ft @ 4:42PM
+UID:d9be163e-b8ad-4935-88e6-cc8255daa8f6@d9be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:06PM to 6:48PM\n\n    Sunrise is at 6:43AM\n    Sunset is at 6:03PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220301T020000Z
+DTSTART:20220228T230000Z
+SUMMARY:Bolinas LT -0.7ft @ 5:00PM
+UID:73ead8d6-2694-4893-b8cd-1ceb5039e8b1@73ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:12AM to 1:24PM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220620T203000Z
+DTSTART:20220620T170000Z
+SUMMARY:Bolinas LT -0.3ft @ 11:54AM
+UID:454079eb-6dbd-41af-8e9b-e36ec75e0496@4540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:24PM to 5:12PM\n\n    Sunrise is at 6:21AM\n    Sunset is at 7:57PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220427T000000Z
+DTSTART:20220426T213000Z
+SUMMARY:Bolinas LT -0.2ft @ 3:54PM
+UID:a4326ddf-1154-4677-a57f-314e4208dbb1@a432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:36AM to 1:30PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220621T203000Z
+DTSTART:20220621T183000Z
+SUMMARY:Bolinas LT 0.1ft @ 12:36PM
+UID:45f994c9-e02f-4f9f-95f4-2b2cb5fdc009@45f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:12AM to 10:18AM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220630T173000Z
+DTSTART:20220630T130000Z
+SUMMARY:Bolinas LT -0.6ft @ 8:24AM
+UID:93f1de71-704e-4010-a74b-070a978c6a55@93f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:00PM to 5:36PM\n\n    Sunrise is at 7:03AM\n    Sunset is at 7:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220328T003000Z
+DTSTART:20220327T210000Z
+SUMMARY:Bolinas LT -0.5ft @ 3:54PM
+UID:6d768951-7afd-4ca5-b117-b5d3e8bb03c9@6d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:12AM to 12:48PM\n\n    Sunrise is at 7:09AM\n    Sunset is at 7:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220323T200000Z
+DTSTART:20220323T170000Z
+SUMMARY:Bolinas LT 0.0ft @ 11:36AM
+UID:027eb042-a2c0-425d-bd40-de9e15d5a270@027e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:30AM to 9:54AM\n\n    Sunrise is at 6:00AM\n    Sunset is at 8:33PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220714T170000Z
+DTSTART:20220714T130000Z
+SUMMARY:Bolinas LT -1.1ft @ 7:48AM
+UID:ca136dd1-f9d3-41c9-8371-07831fc3678f@ca13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:24AM to 6:54AM\n\n    Sunrise is at 6:21AM\n    Sunset is at 8:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220809T140000Z
+DTSTART:20220809T133000Z
+SUMMARY:Bolinas LT -0.5ft @ 5:12AM
+UID:253c2ebd-29aa-4f46-8e50-9859ac36cd10@253c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:12PM to 5:00PM\n\n    Sunrise is at 6:58AM\n    Sunset is at 4:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221122T010000Z
+DTSTART:20221122T000000Z
+SUMMARY:Bolinas LT 0.3ft @ 4:36PM
+UID:b3b0803e-174c-4aac-b723-5370183dc017@b3b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:36PM to 5:48PM\n\n    Sunrise is at 7:04AM\n    Sunset is at 5:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220213T013000Z
+DTSTART:20220212T223000Z
+SUMMARY:Bolinas LT -0.3ft @ 4:12PM
+UID:aea29ea7-69e1-469d-ad08-c45f3f0c1d20@aea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:24AM to 7:48AM\n\n    Sunrise is at 6:09AM\n    Sunset is at 8:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220726T150000Z
+DTSTART:20220726T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:06AM
+UID:29fb0d65-1a4f-4ba0-98c9-c23b9f062b13@29fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:24AM to 10:12AM\n\n    Sunrise is at 6:31AM\n    Sunset is at 7:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220418T170000Z
+DTSTART:20220418T133000Z
+SUMMARY:Bolinas LT -0.4ft @ 8:30AM
+UID:eb90bf65-9682-4324-bec1-0db50b2b8cf6@eb90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:24AM to 12:30PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220604T193000Z
+DTSTART:20220604T153000Z
+SUMMARY:Bolinas LT -0.5ft @ 10:36AM
+UID:e9556e54-5937-441b-9178-3dcd57269972@e955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:42AM to 3:06PM\n\n    Sunrise is at 5:55AM\n    Sunset is at 8:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220523T220000Z
+DTSTART:20220523T183000Z
+SUMMARY:Bolinas LT -0.3ft @ 1:30PM
+UID:eda337fb-6cf9-4726-8512-2311b9d95822@eda3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:42AM to 12:18PM\n\n    Sunrise is at 6:48AM\n    Sunset is at 7:38PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220406T193000Z
+DTSTART:20220406T163000Z
+SUMMARY:Bolinas LT 0.0ft @ 11:06AM
+UID:1bb41bed-919c-4d5f-aea1-9ccd354f91a5@1bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:30PM to 7:42PM\n\n    Sunrise is at 6:41AM\n    Sunset is at 6:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220303T020000Z
+DTSTART:20220303T003000Z
+SUMMARY:Bolinas LT -0.4ft @ 6:12PM
+UID:4c211c07-58bc-4dec-87fa-de1fd283d39d@4c21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:00PM to 8:06PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 5:33PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220201T013000Z
+DTSTART:20220201T000000Z
+SUMMARY:Bolinas LT -0.9ft @ 6:06PM
+UID:c2b12543-c1f8-404a-9e2b-452572b07948@c2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:00AM to 10:54AM\n\n    Sunrise is at 6:12AM\n    Sunset is at 8:03PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220503T180000Z
+DTSTART:20220503T140000Z
+SUMMARY:Bolinas LT -0.5ft @ 9:06AM
+UID:37df7c2c-5363-41ef-a394-9a4edee7f187@37df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:06AM to 2:30PM\n\n    Sunrise is at 6:07AM\n    Sunset is at 8:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220508T213000Z
+DTSTART:20220508T180000Z
+SUMMARY:Bolinas LT -0.2ft @ 1:00PM
+UID:08edc350-963d-4a7e-bfe0-c40d24690bd1@08ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:06AM to 8:06AM\n\n    Sunrise is at 6:37AM\n    Sunset is at 7:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220827T150000Z
+DTSTART:20220827T133000Z
+SUMMARY:Bolinas LT 0.0ft @ 7:12AM
+UID:db8844f6-5d04-4c7c-b146-ddf5bf46d528@db88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42AM to 7:30AM\n\n    Sunrise is at 6:48AM\n    Sunset is at 7:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220909T143000Z
+DTSTART:20220909T140000Z
+SUMMARY:Bolinas LT -0.3ft @ 6:06AM
+UID:c7e765d0-46e3-49c7-a3d3-3a8a4bf4db60@c7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:24PM to 4:06PM\n\n    Sunrise is at 6:26AM\n    Sunset is at 6:15PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220313T000000Z
+DTSTART:20220312T213000Z
+SUMMARY:Bolinas LT -0.1ft @ 2:42PM
+UID:faaaa6f9-c677-437f-810a-cf9a76db97dc@faaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:36PM to 7:12PM\n\n    Sunrise is at 6:59AM\n    Sunset is at 7:32PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220331T020000Z
+DTSTART:20220330T233000Z
+SUMMARY:Bolinas LT -0.2ft @ 6:00PM
+UID:48449aa3-ffd7-4cc1-9e59-e8781100d466@4844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:24AM to 10:48AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220601T180000Z
+DTSTART:20220601T133000Z
+SUMMARY:Bolinas LT -0.7ft @ 8:48AM
+UID:51bd86ec-6828-4a89-9d8a-e60c3a74d1d2@51bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:42AM to 7:54AM\n\n    Sunrise is at 6:49AM\n    Sunset is at 7:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220911T150000Z
+DTSTART:20220911T140000Z
+SUMMARY:Bolinas LT 0.2ft @ 7:18AM
+UID:7f16d9f7-fb1d-4432-aea7-fde9005c98dd@7f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:24PM to 8:00PM\n\n    Sunrise is at 6:39AM\n    Sunset is at 6:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220304T020000Z
+DTSTART:20220304T013000Z
+SUMMARY:Bolinas LT -0.2ft @ 6:48PM
+UID:f34d07fe-570c-4463-a9d4-2b82112b2d1c@f34d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:54AM to 11:24AM\n\n    Sunrise is at 6:50AM\n    Sunset is at 7:38PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220405T183000Z
+DTSTART:20220405T160000Z
+SUMMARY:Bolinas LT 0.0ft @ 10:12AM
+UID:11540c4e-ca46-4978-9ead-3231eb3a8138@1154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:42PM to 7:18PM\n\n    Sunrise is at 6:57AM\n    Sunset is at 7:33PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220401T023000Z
+DTSTART:20220401T003000Z
+SUMMARY:Bolinas LT 0.1ft @ 6:30PM
+UID:cbb04a13-3b4e-44f6-9e7d-c85b65898285@cbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:12AM to 2:12PM\n\n    Sunrise is at 7:08AM\n    Sunset is at 7:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220324T210000Z
+DTSTART:20220324T180000Z
+SUMMARY:Bolinas LT -0.1ft @ 12:48PM
+UID:6659174a-b78a-475c-8cb1-7b0249207699@6659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:42PM to 6:48PM\n\n    Sunrise is at 7:00AM\n    Sunset is at 7:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220330T020000Z
+DTSTART:20220329T223000Z
+SUMMARY:Bolinas LT -0.4ft @ 5:24PM
+UID:b201443f-707e-45bb-974d-f0915ab187fe@b201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:18PM to 4:42PM\n\n    Sunrise is at 7:11AM\n    Sunset is at 4:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221205T003000Z
+DTSTART:20221204T233000Z
+SUMMARY:Bolinas LT 0.2ft @ 4:00PM
+UID:f6eae35e-e410-4988-b116-be47fcbca567@f6ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:42PM to 5:18PM\n\n    Sunrise is at 7:26AM\n    Sunset is at 5:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220114T010000Z
+DTSTART:20220113T223000Z
+SUMMARY:Bolinas LT -0.1ft @ 4:00PM
+UID:d2ff8eb2-6562-4c83-b1fe-7ce55daa5c6a@d2ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:30AM to 7:24AM\n\n    Sunrise is at 5:58AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220711T143000Z
+DTSTART:20220711T130000Z
+SUMMARY:Bolinas LT -0.6ft @ 5:30AM
+UID:e0bb6225-37fe-44e4-9a22-3181c3477892@e0bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:06AM to 7:42AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220626T143000Z
+DTSTART:20220626T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 5:48AM
+UID:8398a819-9f42-4f87-a2a6-b42211244508@8398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42PM to 8:18PM\n\n    Sunrise is at 7:24AM\n    Sunset is at 5:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220118T013000Z
+DTSTART:20220118T003000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:36PM
+UID:04e63e87-0fa8-4fde-8677-988a208f94cf@04e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:36PM to 5:12PM\n\n    Sunrise is at 6:46AM\n    Sunset is at 6:01PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220227T010000Z
+DTSTART:20220226T213000Z
+SUMMARY:Bolinas LT -0.5ft @ 3:24PM
+UID:27f3a02b-60f0-4f01-8d6b-fa98c1b0f936@27f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:30AM to 10:30AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:35PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220615T173000Z
+DTSTART:20220615T130000Z
+SUMMARY:Bolinas LT -1.3ft @ 8:12AM
+UID:e77b25e0-4576-40e1-ab2b-643bf31a2531@e77b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:42AM to 9:42AM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220614T163000Z
+DTSTART:20220614T130000Z
+SUMMARY:Bolinas LT -1.1ft @ 7:24AM
+UID:f73a2fa0-b34d-4542-b31a-11dd65ec2ba8@f73a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:06AM to 11:00AM\n\n    Sunrise is at 6:01AM\n    Sunset is at 8:32PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220716T180000Z
+DTSTART:20220716T140000Z
+SUMMARY:Bolinas LT -0.8ft @ 9:12AM
+UID:c76b7d1b-92b0-4fc4-930d-95edfec53ada@c76b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:36PM to 7:06PM\n\n    Sunrise is at 7:25AM\n    Sunset is at 5:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220116T010000Z
+DTSTART:20220115T233000Z
+SUMMARY:Bolinas LT -0.5ft @ 5:24PM
+UID:a7c9c4c7-3720-4029-b2d5-810e0a449e40@a7c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:06PM to 8:36PM\n\n    Sunrise is at 7:27AM\n    Sunset is at 5:03PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220103T010000Z
+DTSTART:20220103T000000Z
+SUMMARY:Bolinas LT -1.1ft @ 6:30PM
+UID:96a40ae1-7287-4b11-b7e6-b0d387eb0b33@96a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:54AM to 12:18PM\n\n    Sunrise is at 6:28AM\n    Sunset is at 7:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220420T193000Z
+DTSTART:20220420T150000Z
+SUMMARY:Bolinas LT -0.7ft @ 10:18AM
+UID:fe717cb0-156b-4de3-8bbc-26ee31190ee0@fe71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:54AM to 11:24AM\n\n    Sunrise is at 6:02AM\n    Sunset is at 8:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220717T183000Z
+DTSTART:20220717T150000Z
+SUMMARY:Bolinas LT -0.5ft @ 9:48AM
+UID:587ae569-0260-456f-abc0-35c35cf90a20@587a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:48AM to 9:54AM\n\n    Sunrise is at 7:12AM\n    Sunset is at 7:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220321T170000Z
+DTSTART:20220321T160000Z
+SUMMARY:Bolinas LT 0.2ft @ 9:24AM
+UID:b8cd0e53-8b71-4cdf-9552-6dbf1be39c29@b8cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 11:36AM to 2:18PM\n\n    Sunrise is at 6:45AM\n    Sunset is at 7:40PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220408T213000Z
+DTSTART:20220408T183000Z
+SUMMARY:Bolinas LT -0.0ft @ 1:00PM
+UID:cab88b28-cd8a-4514-8966-d4a30eaba147@cab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:18AM to 11:12AM\n\n    Sunrise is at 5:53AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220702T180000Z
+DTSTART:20220702T143000Z
+SUMMARY:Bolinas LT -0.5ft @ 9:24AM
+UID:26bdc2d4-89e9-4dfc-8a2a-4dcc682ec70c@26bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:00PM to 4:00PM\n\n    Sunrise is at 6:48AM\n    Sunset is at 6:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220226T000000Z
+DTSTART:20220225T210000Z
+SUMMARY:Bolinas LT -0.2ft @ 2:30PM
+UID:b8ec616a-2d15-4dfb-9ebc-6d2c7c21e395@b8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:00PM to 3:24PM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:22PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220524T223000Z
+DTSTART:20220524T200000Z
+SUMMARY:Bolinas LT -0.0ft @ 2:18PM
+UID:957ae507-2467-43a7-bc9a-a9eb851d1b71@957a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:06AM to 9:24AM\n\n    Sunrise is at 6:12AM\n    Sunset is at 8:22PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220729T163000Z
+DTSTART:20220729T130000Z
+SUMMARY:Bolinas LT -0.4ft @ 7:48AM
+UID:c2e7ce26-47a2-434c-8206-59afdbacc182@c2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:36AM to 11:42AM\n\n    Sunrise is at 6:11AM\n    Sunset is at 8:04PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220504T183000Z
+DTSTART:20220504T143000Z
+SUMMARY:Bolinas LT -0.5ft @ 9:48AM
+UID:bf0d7060-571b-4f9d-8e92-b68b0e5d88e5@bf0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 6:06AM to 9:18AM\n\n    Sunrise is at 6:15AM\n    Sunset is at 8:02PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220501T163000Z
+DTSTART:20220501T133000Z
+SUMMARY:Bolinas LT -0.3ft @ 7:48AM
+UID:2eaa0b6c-8f63-4e71-9c00-de0dd7bbefca@2eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 1:12PM to 3:36PM\n\n    Sunrise is at 6:05AM\n    Sunset is at 8:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220510T223000Z
+DTSTART:20220510T200000Z
+SUMMARY:Bolinas LT 0.1ft @ 2:30PM
+UID:a5e60d09-eaef-4f01-bd94-b9f17f80da59@a5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:30AM to 9:30AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220530T163000Z
+DTSTART:20220530T130000Z
+SUMMARY:Bolinas LT -0.7ft @ 7:30AM
+UID:182b72b3-83e6-449b-b31c-e65e15bfcdc2@182b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:48AM to 7:24AM\n\n    Sunrise is at 6:35AM\n    Sunset is at 7:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220825T143000Z
+DTSTART:20220825T133000Z
+SUMMARY:Bolinas LT -0.2ft @ 6:06AM
+UID:845f57b4-901d-4eb9-a965-80f6478765f6@845f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:00AM to 11:30AM\n\n    Sunrise is at 5:53AM\n    Sunset is at 8:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220703T183000Z
+DTSTART:20220703T150000Z
+SUMMARY:Bolinas LT -0.3ft @ 9:54AM
+UID:0b65e8af-319f-4449-ab27-712902a5e377@0b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:06PM to 5:30PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 5:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220129T013000Z
+DTSTART:20220128T220000Z
+SUMMARY:Bolinas LT -0.4ft @ 3:48PM
+UID:053ffd07-0d78-48ba-97ab-e3cbb49b946a@053f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:30AM to 9:06AM\n\n    Sunrise is at 6:24AM\n    Sunset is at 8:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220812T160000Z
+DTSTART:20220812T133000Z
+SUMMARY:Bolinas LT -0.7ft @ 7:24AM
+UID:326f50c4-4049-4900-b9fd-f56d5b2d5888@326f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 10:36AM to 2:30PM\n\n    Sunrise is at 5:55AM\n    Sunset is at 8:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220522T213000Z
+DTSTART:20220522T173000Z
+SUMMARY:Bolinas LT -0.6ft @ 12:42PM
+UID:20ae2867-b1e0-42db-b0d5-5ba2562159ed@20ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:54PM to 5:30PM\n\n    Sunrise is at 6:39AM\n    Sunset is at 7:44PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220413T003000Z
+DTSTART:20220412T220000Z
+SUMMARY:Bolinas LT -0.1ft @ 4:18PM
+UID:56cddf09-7af2-4487-bb7e-c8e025a14fec@56cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:24PM to 7:48PM\n\n    Sunrise is at 7:27AM\n    Sunset is at 5:02PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220102T010000Z
+DTSTART:20220101T233000Z
+SUMMARY:Bolinas LT -0.9ft @ 5:42PM
+UID:89869d1e-5a7a-4c32-83c9-9461f88c7ae3@8986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:00AM to 11:42AM\n\n    Sunrise is at 6:03AM\n    Sunset is at 8:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220718T183000Z
+DTSTART:20220718T160000Z
+SUMMARY:Bolinas LT -0.1ft @ 10:24AM
+UID:35ed815c-f159-4b01-887e-638da0a9245a@35ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:18AM to 11:24AM\n\n    Sunrise is at 7:11AM\n    Sunset is at 7:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220322T183000Z
+DTSTART:20220322T163000Z
+SUMMARY:Bolinas LT 0.1ft @ 10:24AM
+UID:06a4184b-29ea-43af-9bd6-3354f0701fe1@06a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:00PM to 6:00PM\n\n    Sunrise is at 7:25AM\n    Sunset is at 7:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220314T010000Z
+DTSTART:20220313T220000Z
+SUMMARY:Bolinas LT -0.2ft @ 4:30PM
+UID:6755a22f-4282-4ab5-abd3-c512738afb44@6755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 9:12AM to 1:00PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220605T200000Z
+DTSTART:20220605T160000Z
+SUMMARY:Bolinas LT -0.3ft @ 11:12AM
+UID:3d708e52-8358-455d-a51c-ae740242ef26@3d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:36AM to 8:30AM\n\n    Sunrise is at 6:00AM\n    Sunset is at 8:14PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220515T153000Z
+DTSTART:20220515T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 6:42AM
+UID:5e72b244-5f86-451f-bb89-db4f3e15c409@5e72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 8:18AM to 9:42AM\n\n    Sunrise is at 6:26AM\n    Sunset is at 8:04PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220815T163000Z
+DTSTART:20220815T153000Z
+SUMMARY:Bolinas LT 0.2ft @ 9:00AM
+UID:fda354db-bd07-401e-bde7-d2a50411d51b@fda3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:24PM to 8:48PM\n\n    Sunrise is at 7:24AM\n    Sunset is at 4:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221224T010000Z
+DTSTART:20221224T003000Z
+SUMMARY:Bolinas LT -1.0ft @ 6:48PM
+UID:634acc5d-87c6-4566-a9ce-a78484b7941f@634a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:24AM to 7:12AM\n\n    Sunrise is at 6:17AM\n    Sunset is at 8:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220429T140000Z
+DTSTART:20220429T133000Z
+SUMMARY:Bolinas LT 0.1ft @ 6:18AM
+UID:1af660de-c618-45ae-b469-ed2349fadcaa@1af6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:48AM to 7:06AM\n\n    Sunrise is at 6:08AM\n    Sunset is at 8:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220725T140000Z
+DTSTART:20220725T130000Z
+SUMMARY:Bolinas LT -0.4ft @ 5:24AM
+UID:bf889ef8-e702-4e96-a667-e8dc993601cd@bf88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:36AM to 12:00PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220603T190000Z
+DTSTART:20220603T143000Z
+SUMMARY:Bolinas LT -0.6ft @ 10:00AM
+UID:924864a6-568e-4e59-9aa0-4939817e0272@9248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:54AM to 9:24AM\n\n    Sunrise is at 6:53AM\n    Sunset is at 7:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220403T163000Z
+DTSTART:20220403T150000Z
+SUMMARY:Bolinas LT 0.2ft @ 8:42AM
+UID:6713500b-d24f-4060-b9d4-1f7981f9d16c@6713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 7:00AM to 11:18AM\n\n    Sunrise is at 6:30AM\n    Sunset is at 7:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220419T183000Z
+DTSTART:20220419T140000Z
+SUMMARY:Bolinas LT -0.6ft @ 9:24AM
+UID:3b547412-de8f-49ec-8c8d-7fd0e2b49393@3b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 2:18PM to 6:06PM\n\n    Sunrise is at 6:45AM\n    Sunset is at 6:02PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220228T020000Z
+DTSTART:20220227T223000Z
+SUMMARY:Bolinas LT -0.6ft @ 4:12PM
+UID:91735223-9247-44f5-807e-7852c0ffca84@9173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:54PM to 6:42PM\n\n    Sunrise is at 6:59AM\n    Sunset is at 4:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20221123T010000Z
+DTSTART:20221123T000000Z
+SUMMARY:Bolinas LT -0.1ft @ 5:24PM
+UID:303d8179-3eff-4787-8818-bad075a0c8ea@303d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 5:36AM to 8:54AM\n\n    Sunrise is at 6:11AM\n    Sunset is at 8:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220728T160000Z
+DTSTART:20220728T130000Z
+SUMMARY:Bolinas LT -0.5ft @ 7:18AM
+UID:8a69667c-7180-4186-9a53-124cc3e48270@8a69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 4:54PM to 7:36PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 7:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220317T023000Z
+DTSTART:20220317T000000Z
+SUMMARY:Bolinas LT -0.1ft @ 6:18PM
+UID:c2a9bd38-524b-4bc9-aa60-3b4fb893c3fa@c2a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <0.3ft from 3:48PM to 7:18PM\n\n    Sunrise is at 6:42AM\n    Sunset is at 6:04PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20220302T020000Z
+DTSTART:20220302T000000Z
+SUMMARY:Bolinas LT -0.6ft @ 5:36PM
+UID:6c5e4591-3d0c-4612-8b4d-e5d08870a742@6c5e.org
+END:VEVENT
+END:VCALENDAR
