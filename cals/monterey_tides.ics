@@ -1,0 +1,1601 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+X-WR-CALNAME:Monterey Tides
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:30AM to 1:36PM\n\n    Sunrise is at 6:01AM\n    Sunset is at 8:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240514T203000Z
+DTSTART:20240514T153000Z
+SUMMARY:Monterey LT -0.2ft @ 11:00AM
+UID:ade26934-1ba1-4d47-8d35-701c942337a1@ade2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:36PM to 5:24PM\n\n    Sunrise is at 6:47AM\n    Sunset is at 7:34PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240406T003000Z
+DTSTART:20240405T193000Z
+SUMMARY:Monterey LT -0.7ft @ 3:00PM
+UID:1e2d5327-bee4-4a54-b146-aa8dc7854d1d@1e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:24PM to 4:24PM\n\n    Sunrise is at 6:29AM\n    Sunset is at 7:45PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240418T233000Z
+DTSTART:20240418T193000Z
+SUMMARY:Monterey LT 0.2ft @ 2:24PM
+UID:fde047dd-51a3-41fe-8ef6-a6336a68cc75@fde0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:00AM to 2:54PM\n\n    Sunrise is at 6:33AM\n    Sunset is at 6:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240304T230000Z
+DTSTART:20240304T180000Z
+SUMMARY:Monterey LT -0.0ft @ 12:18PM
+UID:687da04f-c6a8-4f47-a1f9-1e33d3b3cd48@687d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:06PM to 6:48PM\n\n    Sunrise is at 6:46AM\n    Sunset is at 5:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240224T020000Z
+DTSTART:20240223T220000Z
+SUMMARY:Monterey LT -0.4ft @ 4:24PM
+UID:29ff861a-0f63-457c-b8e3-91ce79403b9e@29ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:00AM to 3:24PM\n\n    Sunrise is at 6:51AM\n    Sunset is at 7:31PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240402T223000Z
+DTSTART:20240402T170000Z
+SUMMARY:Monterey LT -0.3ft @ 12:36PM
+UID:96307fbb-1f6f-4fb8-ac0f-5ee7839bb099@9630.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:24PM to 7:42PM\n\n    Sunrise is at 7:14AM\n    Sunset is at 5:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240126T013000Z
+DTSTART:20240125T223000Z
+SUMMARY:Monterey LT -0.8ft @ 4:54PM
+UID:035e40b3-e5f1-4cd5-b268-23e6bc7aeec2@035e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:54AM to 2:36PM\n\n    Sunrise is at 6:54AM\n    Sunset is at 5:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240217T223000Z
+DTSTART:20240217T180000Z
+SUMMARY:Monterey LT -0.0ft @ 12:12PM
+UID:ec369f5f-6180-4df3-bd4f-7c2f27647e18@ec36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:00AM to 12:54PM\n\n    Sunrise is at 6:55AM\n    Sunset is at 5:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240216T210000Z
+DTSTART:20240216T170000Z
+SUMMARY:Monterey LT 0.3ft @ 10:54AM
+UID:aa2d7701-a089-4eef-a30e-3ff02accb93f@aa2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:06AM to 7:30AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240620T143000Z
+DTSTART:20240620T130000Z
+SUMMARY:Monterey LT -0.7ft @ 4:42AM
+UID:6e000129-3248-4929-a767-601199a8d5d4@6e00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:24PM to 7:06PM\n\n    Sunrise is at 7:12AM\n    Sunset is at 4:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241215T010000Z
+DTSTART:20241214T213000Z
+SUMMARY:Monterey LT -1.5ft @ 4:06PM
+UID:f733113c-6f44-49b4-8ea9-319bbfac6053@f733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:48AM to 11:54AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240611T190000Z
+DTSTART:20240611T140000Z
+SUMMARY:Monterey LT -0.4ft @ 9:18AM
+UID:70d9c234-fbb4-4bca-b54c-4a70d38d3b2a@70d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:42AM to 8:36AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240606T153000Z
+DTSTART:20240606T130000Z
+SUMMARY:Monterey LT -1.5ft @ 5:30AM
+UID:707b216a-86da-4ba0-8c45-5ecfeeeff1aa@707b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24AM to 8:06AM\n\n    Sunrise is at 6:30AM\n    Sunset is at 7:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240820T150000Z
+DTSTART:20240820T133000Z
+SUMMARY:Monterey LT -0.8ft @ 5:42AM
+UID:2666c21d-9be3-45ee-a96b-ae22a777cefd@2666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:00AM to 3:06PM\n\n    Sunrise is at 7:07AM\n    Sunset is at 5:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240204T230000Z
+DTSTART:20240204T190000Z
+SUMMARY:Monterey LT 0.3ft @ 12:54PM
+UID:63854d50-0b7e-4577-b486-cf0d695ab1c3@6385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:48PM to 7:24PM\n\n    Sunrise is at 7:02AM\n    Sunset is at 5:42PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240210T013000Z
+DTSTART:20240209T220000Z
+SUMMARY:Monterey LT -1.5ft @ 4:30PM
+UID:65db4353-5edb-44d2-899e-5f62f0da5bd2@65db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:36PM to 10:42PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 6:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241021T013000Z
+DTSTART:20241021T003000Z
+SUMMARY:Monterey LT -0.8ft @ 8:00PM
+UID:d5f4fa6f-bbc1-40a4-b391-f500ccdd0a0e@d5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:54PM to 6:30PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240110T010000Z
+DTSTART:20240109T210000Z
+SUMMARY:Monterey LT -1.1ft @ 3:30PM
+UID:e905f019-21a6-496b-a74f-4587dfcfe094@e905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:36AM to 12:24PM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240528T193000Z
+DTSTART:20240528T133000Z
+SUMMARY:Monterey LT -0.9ft @ 9:24AM
+UID:521e2693-dd16-4a39-af4d-a4e0704e7e0e@521e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:30AM to 4:48PM\n\n    Sunrise is at 6:51AM\n    Sunset is at 5:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240220T010000Z
+DTSTART:20240219T193000Z
+SUMMARY:Monterey LT -0.5ft @ 2:06PM
+UID:04dcc1d9-e4b6-4a17-96fd-f00380dc8fe9@04dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:18AM to 4:24PM\n\n    Sunrise is at 7:06AM\n    Sunset is at 5:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240206T003000Z
+DTSTART:20240205T193000Z
+SUMMARY:Monterey LT -0.3ft @ 1:42PM
+UID:e8ebbec7-3c43-4348-afc6-bef0c9939d12@e8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:06AM to 3:18PM\n\n    Sunrise is at 7:15AM\n    Sunset is at 7:17PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240317T223000Z
+DTSTART:20240317T170000Z
+SUMMARY:Monterey LT -0.2ft @ 12:36PM
+UID:45401672-9dc2-44cd-bd3d-c4bb9c17cc5e@4540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:54AM to 4:18PM\n\n    Sunrise is at 6:50AM\n    Sunset is at 7:32PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240403T233000Z
+DTSTART:20240403T180000Z
+SUMMARY:Monterey LT -0.6ft @ 1:30PM
+UID:eae203ac-ab40-4740-9c7b-f9f4362be3aa@eae2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:00AM to 12:48PM\n\n    Sunrise is at 6:54AM\n    Sunset is at 7:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240331T200000Z
+DTSTART:20240331T150000Z
+SUMMARY:Monterey LT 0.1ft @ 10:18AM
+UID:927a3c3d-8813-4c1b-a5c8-22395563a556@927a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:42AM to 1:30PM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240530T203000Z
+DTSTART:20240530T153000Z
+SUMMARY:Monterey LT -0.3ft @ 11:06AM
+UID:57da4587-9d13-45ce-86af-214838a3d8d1@57da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:12PM to 1:18PM\n\n    Sunrise is at 7:09AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241210T213000Z
+DTSTART:20241210T200000Z
+SUMMARY:Monterey LT 0.9ft @ 12:48PM
+UID:fe09f63d-2bf9-4476-a60f-79f1e29be153@fe09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42PM to 9:24PM\n\n    Sunrise is at 7:14AM\n    Sunset is at 4:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241218T010000Z
+DTSTART:20241217T233000Z
+SUMMARY:Monterey LT -1.2ft @ 6:24PM
+UID:16e57f1b-8ed3-4833-abef-133bb7830672@16e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:54AM to 10:54AM\n\n    Sunrise is at 5:53AM\n    Sunset is at 8:17PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240526T180000Z
+DTSTART:20240526T130000Z
+SUMMARY:Monterey LT -1.1ft @ 7:42AM
+UID:97562716-09f4-42a9-b18d-5a31a50940da@9756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:42AM to 7:42AM\n\n    Sunrise is at 6:29AM\n    Sunset is at 7:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240819T143000Z
+DTSTART:20240819T133000Z
+SUMMARY:Monterey LT -1.0ft @ 5:06AM
+UID:ad559ab6-a033-42ad-ba9d-579a12a7d473@ad55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:12PM to 7:00PM\n\n    Sunrise is at 6:43AM\n    Sunset is at 5:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240227T020000Z
+DTSTART:20240227T000000Z
+SUMMARY:Monterey LT 0.5ft @ 5:36PM
+UID:1d188179-6b44-4912-b469-84670ae7b326@1d18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:00AM to 8:30AM\n\n    Sunrise is at 6:06AM\n    Sunset is at 8:22PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240721T153000Z
+DTSTART:20240721T130000Z
+SUMMARY:Monterey LT -1.2ft @ 5:36AM
+UID:049351fa-148c-4272-babb-f2c5d8db349a@0493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:42PM to 2:36PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 4:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241225T223000Z
+DTSTART:20241225T203000Z
+SUMMARY:Monterey LT 0.8ft @ 1:36PM
+UID:87e6449d-0a46-4e9b-8104-3b3b444f103f@87e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:06PM to 6:06PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 5:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241229T010000Z
+DTSTART:20241228T210000Z
+SUMMARY:Monterey LT -0.5ft @ 3:30PM
+UID:532ba4c2-45d9-4c1c-a766-63963dcc4c9c@532b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:30PM to 9:36PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 5:14PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240115T010000Z
+DTSTART:20240115T003000Z
+SUMMARY:Monterey LT -0.9ft @ 7:00PM
+UID:222b4911-effb-4f24-aec6-06607e73ccb9@222b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:54PM to 6:00PM\n\n    Sunrise is at 6:49AM\n    Sunset is at 5:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240222T020000Z
+DTSTART:20240221T210000Z
+SUMMARY:Monterey LT -0.6ft @ 3:24PM
+UID:efff019a-07ab-44b9-9609-45b178a68a86@efff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:12PM to 7:24PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 6:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241018T013000Z
+DTSTART:20241017T220000Z
+SUMMARY:Monterey LT -0.4ft @ 5:18PM
+UID:53dbda30-8641-4a5f-bc70-3fa318ca31d8@53db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:36AM to 12:00PM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240628T190000Z
+DTSTART:20240628T153000Z
+SUMMARY:Monterey LT 0.3ft @ 10:18AM
+UID:0cbdab7e-a8bd-4894-9b54-f7e6e7dbc08b@0cbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:00AM to 12:24PM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240613T193000Z
+DTSTART:20240613T160000Z
+SUMMARY:Monterey LT 0.5ft @ 10:42AM
+UID:0e5d6a3b-d0c8-48dc-9f2c-2e9cef99f6c9@0e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:54AM to 11:24AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240610T183000Z
+DTSTART:20240610T130000Z
+SUMMARY:Monterey LT -0.7ft @ 8:30AM
+UID:1127688c-b781-4d95-ba44-68a2acb45778@1127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24PM to 9:00PM\n\n    Sunrise is at 6:35AM\n    Sunset is at 5:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241105T010000Z
+DTSTART:20241105T003000Z
+SUMMARY:Monterey LT -0.1ft @ 6:36PM
+UID:6a4985ed-4f8d-4093-81e7-9e648f8f2817@6a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:48AM to 3:42PM\n\n    Sunrise is at 7:10AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241211T233000Z
+DTSTART:20241211T200000Z
+SUMMARY:Monterey LT 0.0ft @ 1:42PM
+UID:d04889a6-246b-4828-9f35-846ff5ce545a@d048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:48AM to 7:06AM\n\n    Sunrise is at 6:04AM\n    Sunset is at 8:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240719T140000Z
+DTSTART:20240719T130000Z
+SUMMARY:Monterey LT -0.7ft @ 4:18AM
+UID:1e67a0a3-147a-4b21-8422-5287f96ce44e@1e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:48AM to 12:30PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 7:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240315T193000Z
+DTSTART:20240315T150000Z
+SUMMARY:Monterey LT -0.1ft @ 10:00AM
+UID:7360a4bf-4c64-40f2-8161-311aef36f712@7360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42AM to 8:06AM\n\n    Sunrise is at 6:21AM\n    Sunset is at 7:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240424T150000Z
+DTSTART:20240424T133000Z
+SUMMARY:Monterey LT -0.2ft @ 5:48AM
+UID:daab6f95-6b01-4e63-8af0-99b80acb0f60@daab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:30AM to 10:12AM\n\n    Sunrise is at 6:09AM\n    Sunset is at 8:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240726T170000Z
+DTSTART:20240726T143000Z
+SUMMARY:Monterey LT 0.5ft @ 8:54AM
+UID:14bb89fe-67f3-4317-8108-080ad9611172@14bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:24AM to 10:48AM\n\n    Sunrise is at 6:18AM\n    Sunset is at 7:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240427T180000Z
+DTSTART:20240427T133000Z
+SUMMARY:Monterey LT -0.5ft @ 7:54AM
+UID:3b83a15b-e12f-4ed9-a3e9-824903c439d0@3b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:18AM to 4:48PM\n\n    Sunrise is at 6:30AM\n    Sunset is at 6:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240307T010000Z
+DTSTART:20240306T193000Z
+SUMMARY:Monterey LT -0.9ft @ 2:00PM
+UID:f1ae8a84-57be-4d23-a724-7597b0047d87@f1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:30AM to 4:00PM\n\n    Sunrise is at 6:30AM\n    Sunset is at 7:44PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240417T230000Z
+DTSTART:20240417T183000Z
+SUMMARY:Monterey LT 0.0ft @ 1:42PM
+UID:b5a47ab2-431e-492a-b2db-7781aeae6adc@b5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24PM to 7:06PM\n\n    Sunrise is at 6:44AM\n    Sunset is at 5:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240226T020000Z
+DTSTART:20240225T233000Z
+SUMMARY:Monterey LT 0.1ft @ 5:12PM
+UID:93cb8fe9-ed04-49e0-aff9-1a3c2588b805@93cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:48PM to 8:30PM\n\n    Sunrise is at 7:07AM\n    Sunset is at 6:44PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241006T013000Z
+DTSTART:20241006T010000Z
+SUMMARY:Monterey LT 0.6ft @ 7:06PM
+UID:f5a6b15b-8ead-4604-9ba0-71692f5dea49@f5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:18AM to 6:36AM\n\n    Sunrise is at 5:56AM\n    Sunset is at 8:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240521T133000Z
+DTSTART:20240521T130000Z
+SUMMARY:Monterey LT -0.0ft @ 4:18AM
+UID:96a76b00-0e30-47e1-bbf6-f79b65d5dab8@96a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:30PM to 7:42PM\n\n    Sunrise is at 7:02AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241202T010000Z
+DTSTART:20241201T223000Z
+SUMMARY:Monterey LT -0.6ft @ 5:00PM
+UID:2dc81a24-abe9-46a7-8712-a1a8589b1c9a@2dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:36AM to 10:24AM\n\n    Sunrise is at 5:57AM\n    Sunset is at 8:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240709T173000Z
+DTSTART:20240709T130000Z
+SUMMARY:Monterey LT -0.4ft @ 7:54AM
+UID:1b798cba-1501-46f5-90ae-78535c059282@1b79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:00AM to 10:48AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240609T180000Z
+DTSTART:20240609T130000Z
+SUMMARY:Monterey LT -1.1ft @ 7:48AM
+UID:990edc32-b827-49b2-a3a4-32ae4f51c8a7@990e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:00AM to 7:06AM\n\n    Sunrise is at 6:28AM\n    Sunset is at 7:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240818T140000Z
+DTSTART:20240818T133000Z
+SUMMARY:Monterey LT -0.9ft @ 4:30AM
+UID:917eac58-6430-433b-912b-cbe3f42760ce@917e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:36AM to 7:30AM\n\n    Sunrise is at 5:55AM\n    Sunset is at 8:14PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240522T143000Z
+DTSTART:20240522T130000Z
+SUMMARY:Monterey LT -0.4ft @ 4:54AM
+UID:9bded44f-0022-49f8-95cf-520bbf5f6c6e@9bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:24AM to 11:00AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240625T180000Z
+DTSTART:20240625T130000Z
+SUMMARY:Monterey LT -1.1ft @ 8:06AM
+UID:41916e94-ee8e-40fa-9d02-8b43ebc1d1dc@4191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:36AM to 4:00PM\n\n    Sunrise is at 6:32AM\n    Sunset is at 6:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240306T000000Z
+DTSTART:20240305T183000Z
+SUMMARY:Monterey LT -0.5ft @ 1:12PM
+UID:13a13737-0d18-4a31-a50a-e0e066839b07@13a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:30PM to 4:12PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 4:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241227T000000Z
+DTSTART:20241226T203000Z
+SUMMARY:Monterey LT 0.3ft @ 2:12PM
+UID:d98e1e8d-28e9-4701-87d3-f0a5fd80ce3f@d98e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:42AM to 9:12AM\n\n    Sunrise is at 6:58AM\n    Sunset is at 7:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240328T160000Z
+DTSTART:20240328T140000Z
+SUMMARY:Monterey LT 0.3ft @ 7:24AM
+UID:422e552b-7f00-4919-af32-51cc0ab64c8f@422e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24PM to 8:12PM\n\n    Sunrise is at 7:00AM\n    Sunset is at 5:44PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240212T013000Z
+DTSTART:20240211T233000Z
+SUMMARY:Monterey LT -0.9ft @ 5:48PM
+UID:9bea167b-2193-4853-952a-a8a6358a99d4@9bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:18AM to 8:24AM\n\n    Sunrise is at 6:30AM\n    Sunset is at 7:50PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240821T153000Z
+DTSTART:20240821T133000Z
+SUMMARY:Monterey LT -0.4ft @ 6:18AM
+UID:56906e5b-1f44-4c42-b1a3-4562b0274275@5690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:06AM to 1:00PM\n\n    Sunrise is at 7:08AM\n    Sunset is at 5:35PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240203T210000Z
+DTSTART:20240203T190000Z
+SUMMARY:Monterey LT 0.9ft @ 12:00PM
+UID:145ea72d-e052-4ce6-98fa-b501d30f66b9@145e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:30AM to 9:12AM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240524T160000Z
+DTSTART:20240524T130000Z
+SUMMARY:Monterey LT -0.9ft @ 6:12AM
+UID:6c5b4210-0a7f-4204-94a1-c373464af7ea@6c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24AM to 9:36AM\n\n    Sunrise is at 6:07AM\n    Sunset is at 8:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240723T163000Z
+DTSTART:20240723T130000Z
+SUMMARY:Monterey LT -1.1ft @ 6:54AM
+UID:29507a5a-30e0-404b-8dbe-922c03d13e9e@2950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:12AM to 2:36PM\n\n    Sunrise is at 6:13AM\n    Sunset is at 7:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240501T213000Z
+DTSTART:20240501T160000Z
+SUMMARY:Monterey LT -0.5ft @ 11:54AM
+UID:3262f113-b571-478e-8cc0-70fb7bf08491@3262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:54AM to 2:24PM\n\n    Sunrise is at 5:59AM\n    Sunset is at 8:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240516T213000Z
+DTSTART:20240516T180000Z
+SUMMARY:Monterey LT 0.4ft @ 12:36PM
+UID:31ab741a-b539-4c04-a091-0fc5f61f5736@31ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:42PM to 6:12PM\n\n    Sunrise is at 7:12AM\n    Sunset is at 4:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241214T010000Z
+DTSTART:20241213T203000Z
+SUMMARY:Monterey LT -1.2ft @ 3:18PM
+UID:d0a9f58b-876a-4a73-b807-751d4f18f8a4@d0a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:12PM to 8:54PM\n\n    Sunrise is at 6:48AM\n    Sunset is at 4:57PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241118T010000Z
+DTSTART:20241117T230000Z
+SUMMARY:Monterey LT -1.4ft @ 5:54PM
+UID:fd871b0f-c298-46dc-aca5-fb3014a3d307@fd87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:54AM to 1:48PM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240531T210000Z
+DTSTART:20240531T170000Z
+SUMMARY:Monterey LT 0.1ft @ 11:54AM
+UID:174e8d22-aa02-4607-b390-76c11d2ea69e@174e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:12AM to 9:06AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240622T160000Z
+DTSTART:20240622T130000Z
+SUMMARY:Monterey LT -1.2ft @ 6:00AM
+UID:3914206a-1d2e-410e-b949-08b229194dd5@3914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:24AM to 10:36AM\n\n    Sunrise is at 5:58AM\n    Sunset is at 8:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240710T173000Z
+DTSTART:20240710T133000Z
+SUMMARY:Monterey LT 0.0ft @ 8:30AM
+UID:96d41513-4154-47e9-b939-7a511a530f73@96d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:42AM to 2:30PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 5:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240119T223000Z
+DTSTART:20240119T183000Z
+SUMMARY:Monterey LT 0.3ft @ 12:30PM
+UID:6460521e-e979-45b9-a7b3-c6c1db782aae@6460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:18PM to 5:12PM\n\n    Sunrise is at 6:59AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241129T010000Z
+DTSTART:20241128T213000Z
+SUMMARY:Monterey LT 0.2ft @ 3:12PM
+UID:9975c919-4f63-4c4d-9dce-e5ebc23ee92a@9975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:18PM to 4:36PM\n\n    Sunrise is at 6:28AM\n    Sunset is at 7:46PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240419T233000Z
+DTSTART:20240419T203000Z
+SUMMARY:Monterey LT 0.4ft @ 2:54PM
+UID:f0e457d6-9fd9-4839-a9b2-594c32543263@f0e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:12PM to 4:36PM\n\n    Sunrise is at 6:26AM\n    Sunset is at 7:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240420T233000Z
+DTSTART:20240420T210000Z
+SUMMARY:Monterey LT 0.7ft @ 3:24PM
+UID:23fc9b50-62c1-449d-8399-8ca243d35016@23fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:36PM to 9:42PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 6:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241020T013000Z
+DTSTART:20241019T233000Z
+SUMMARY:Monterey LT -0.9ft @ 7:06PM
+UID:a8c8bb0c-9481-453b-b9d5-3b03349e01a0@a8c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:30PM to 6:00PM\n\n    Sunrise is at 6:44AM\n    Sunset is at 7:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240408T010000Z
+DTSTART:20240407T213000Z
+SUMMARY:Monterey LT -0.0ft @ 4:12PM
+UID:b668aad0-29fb-4f69-a32e-8259470ed8bb@b668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:30PM to 6:24PM\n\n    Sunrise is at 6:26AM\n    Sunset is at 6:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240310T020000Z
+DTSTART:20240309T213000Z
+SUMMARY:Monterey LT -1.0ft @ 3:54PM
+UID:60cff3cd-b374-48eb-8d6b-0a490d26fa24@60cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:48PM to 7:54PM\n\n    Sunrise is at 6:54AM\n    Sunset is at 7:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240920T020000Z
+DTSTART:20240920T000000Z
+SUMMARY:Monterey LT 0.2ft @ 6:18PM
+UID:8788bf81-343c-4c93-86dc-caf225925388@8788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:24PM to 5:36PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240109T010000Z
+DTSTART:20240108T203000Z
+SUMMARY:Monterey LT -0.6ft @ 2:54PM
+UID:0afa90d9-9103-4675-bc06-a976b1c8738c@0afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42PM to 7:30PM\n\n    Sunrise is at 7:32AM\n    Sunset is at 6:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241102T010000Z
+DTSTART:20241101T223000Z
+SUMMARY:Monterey LT 0.1ft @ 5:36PM
+UID:513f3d45-0c63-4ea4-aaf4-0dd75636cd83@513f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:54AM to 11:24AM\n\n    Sunrise is at 6:37AM\n    Sunset is at 7:40PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240412T183000Z
+DTSTART:20240412T133000Z
+SUMMARY:Monterey LT -0.8ft @ 8:30AM
+UID:e5d16ef1-a83d-41fe-9da0-b9bb795e690e@e5d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:12PM to 6:36PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 5:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240124T013000Z
+DTSTART:20240123T210000Z
+SUMMARY:Monterey LT -0.9ft @ 3:48PM
+UID:90a43f5b-ee94-4e58-b113-d4da6a4ba08e@90a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:12AM to 4:06PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 5:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240121T000000Z
+DTSTART:20240120T190000Z
+SUMMARY:Monterey LT -0.3ft @ 1:30PM
+UID:ad879eae-5f6d-4688-9191-9e14f50c9729@ad87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:54AM to 3:12PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240106T230000Z
+DTSTART:20240106T200000Z
+SUMMARY:Monterey LT 0.5ft @ 1:30PM
+UID:10857983-ebe9-4a8a-ab15-85039fcd1042@1085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:54PM to 5:36PM\n\n    Sunrise is at 7:10AM\n    Sunset is at 7:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240321T003000Z
+DTSTART:20240320T200000Z
+SUMMARY:Monterey LT -0.3ft @ 3:12PM
+UID:aa4f6f33-dfab-4944-b74f-5182e0f28913@aa4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:48PM to 6:06PM\n\n    Sunrise is at 7:03AM\n    Sunset is at 7:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240326T010000Z
+DTSTART:20240326T000000Z
+SUMMARY:Monterey LT 0.9ft @ 5:24PM
+UID:22d78022-65b3-4190-8d65-1ead5a0b1085@22d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:18AM to 7:12AM\n\n    Sunrise is at 6:23AM\n    Sunset is at 7:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240423T140000Z
+DTSTART:20240423T133000Z
+SUMMARY:Monterey LT 0.1ft @ 5:12AM
+UID:dd8d1b4b-0d9f-4380-8201-56e174c4c21b@dd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:42AM to 2:06PM\n\n    Sunrise is at 6:00AM\n    Sunset is at 8:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240515T210000Z
+DTSTART:20240515T163000Z
+SUMMARY:Monterey LT 0.1ft @ 11:54AM
+UID:9d8a922e-a12c-4903-a073-c169b084c030@9d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:18AM to 12:06PM\n\n    Sunrise is at 6:02AM\n    Sunset is at 8:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240512T190000Z
+DTSTART:20240512T133000Z
+SUMMARY:Monterey LT -0.8ft @ 9:06AM
+UID:7bdeee8a-5a39-4922-b7cb-69b796ea760c@7bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:30AM to 8:06AM\n\n    Sunrise is at 6:41AM\n    Sunset is at 7:37PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240409T150000Z
+DTSTART:20240409T133000Z
+SUMMARY:Monterey LT -0.7ft @ 5:42AM
+UID:1bd73b75-9d02-4328-a8af-76e469f0a0eb@1bd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24PM to 8:24PM\n\n    Sunrise is at 6:59AM\n    Sunset is at 5:45PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240213T013000Z
+DTSTART:20240213T003000Z
+SUMMARY:Monterey LT -0.3ft @ 6:24PM
+UID:8301779a-c6b9-4649-9cba-1208db05db61@8301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:42PM to 4:00PM\n\n    Sunrise is at 6:09AM\n    Sunset is at 8:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240505T230000Z
+DTSTART:20240505T203000Z
+SUMMARY:Monterey LT 0.6ft @ 2:54PM
+UID:2d3226d5-d7da-460c-826a-53334b3026fb@2d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:12AM to 9:12AM\n\n    Sunrise is at 6:40AM\n    Sunset is at 7:38PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240410T160000Z
+DTSTART:20240410T133000Z
+SUMMARY:Monterey LT -0.9ft @ 6:36AM
+UID:57edecc2-f7d1-48c2-af55-69afe06da1c8@57ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:24PM to 7:54PM\n\n    Sunrise is at 6:47AM\n    Sunset is at 4:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241117T010000Z
+DTSTART:20241116T223000Z
+SUMMARY:Monterey LT -1.4ft @ 5:00PM
+UID:97390d2e-7d7a-42a9-8821-936c6880f57a@9739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:54AM to 7:06AM\n\n    Sunrise is at 6:15AM\n    Sunset is at 8:12PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240802T140000Z
+DTSTART:20240802T133000Z
+SUMMARY:Monterey LT -0.8ft @ 4:24AM
+UID:bfbc6ca9-ba46-48d3-acf7-30c88b7c599b@bfbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:00PM to 6:36PM\n\n    Sunrise is at 7:05AM\n    Sunset is at 6:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241004T013000Z
+DTSTART:20241004T000000Z
+SUMMARY:Monterey LT 0.8ft @ 5:48PM
+UID:cda0eb6f-209f-435b-bb15-ef01a53d24ed@cda0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24PM to 6:42PM\n\n    Sunrise is at 7:31AM\n    Sunset is at 6:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241101T010000Z
+DTSTART:20241031T223000Z
+SUMMARY:Monterey LT 0.3ft @ 5:00PM
+UID:d6c717bd-48a1-4a94-ab8b-e216442dcdfe@d6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:06PM to 9:42PM\n\n    Sunrise is at 6:49AM\n    Sunset is at 4:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241119T010000Z
+DTSTART:20241119T000000Z
+SUMMARY:Monterey LT -1.1ft @ 6:42PM
+UID:6a74ab92-9f07-4f5b-8308-0d7162d1d6b9@6a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:12AM to 10:12AM\n\n    Sunrise is at 6:09AM\n    Sunset is at 8:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240725T170000Z
+DTSTART:20240725T130000Z
+SUMMARY:Monterey LT -0.2ft @ 8:12AM
+UID:e26cea69-8de6-4480-8a33-22d5f62d5659@e26c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:18AM to 11:18AM\n\n    Sunrise is at 6:03AM\n    Sunset is at 8:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240511T183000Z
+DTSTART:20240511T130000Z
+SUMMARY:Monterey LT -1.1ft @ 8:06AM
+UID:91be7d43-1cf4-4ce7-9313-7781d449f21a@91be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:30PM to 5:48PM\n\n    Sunrise is at 6:45AM\n    Sunset is at 7:35PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240407T010000Z
+DTSTART:20240406T203000Z
+SUMMARY:Monterey LT -0.4ft @ 3:36PM
+UID:c296401b-cb2d-417e-94cf-f301c729108a@c296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:48PM to 4:24PM\n\n    Sunrise is at 7:15AM\n    Sunset is at 6:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241015T233000Z
+DTSTART:20241015T220000Z
+SUMMARY:Monterey LT 0.8ft @ 3:36PM
+UID:2a23b71b-5bf7-4c92-aa8b-bde046f6ef25@2a23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:36PM to 6:54PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 5:01PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241230T010000Z
+DTSTART:20241229T213000Z
+SUMMARY:Monterey LT -0.8ft @ 4:06PM
+UID:992c9b72-823a-4c53-81a8-5278d17c3b71@992c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:30PM to 6:30PM\n\n    Sunrise is at 6:48AM\n    Sunset is at 5:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240223T020000Z
+DTSTART:20240222T213000Z
+SUMMARY:Monterey LT -0.6ft @ 3:54PM
+UID:b4ab9c48-3202-4161-bd50-36622b7aa79d@b4ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:30PM to 9:06PM\n\n    Sunrise is at 6:54AM\n    Sunset is at 7:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240921T020000Z
+DTSTART:20240921T003000Z
+SUMMARY:Monterey LT -0.0ft @ 7:18PM
+UID:2f24083f-87cf-40ec-9152-9df0c13659ae@2f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:06PM to 8:00PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240112T010000Z
+DTSTART:20240111T220000Z
+SUMMARY:Monterey LT -1.6ft @ 4:54PM
+UID:eb555908-ee02-456d-9edf-8ae191b519d2@eb55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:18AM to 12:54PM\n\n    Sunrise is at 6:02AM\n    Sunset is at 8:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240513T200000Z
+DTSTART:20240513T143000Z
+SUMMARY:Monterey LT -0.5ft @ 10:00AM
+UID:f1733ec7-fd7f-41b0-9cfb-9d4efe1757b9@f173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:18AM to 7:30AM\n\n    Sunrise is at 6:07AM\n    Sunset is at 8:02PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240507T143000Z
+DTSTART:20240507T130000Z
+SUMMARY:Monterey LT -1.0ft @ 4:48AM
+UID:4f09deb1-12cc-42f1-9545-a2c89561faf7@4f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:42AM to 4:54PM\n\n    Sunrise is at 6:48AM\n    Sunset is at 7:33PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240405T000000Z
+DTSTART:20240404T183000Z
+SUMMARY:Monterey LT -0.7ft @ 2:18PM
+UID:fcc43be0-9791-463d-8bdc-c1a6c2a44db5@fcc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:00PM to 8:00PM\n\n    Sunrise is at 7:14AM\n    Sunset is at 5:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240127T013000Z
+DTSTART:20240126T230000Z
+SUMMARY:Monterey LT -0.6ft @ 5:30PM
+UID:debaa004-3db3-49de-ad64-7692deb523f4@deba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:12AM to 10:12AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240608T170000Z
+DTSTART:20240608T130000Z
+SUMMARY:Monterey LT -1.3ft @ 7:00AM
+UID:88195eef-53d8-45d5-8862-0cd125377e0a@8819.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:12PM to 5:36PM\n\n    Sunrise is at 7:30AM\n    Sunset is at 6:12PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241031T003000Z
+DTSTART:20241030T220000Z
+SUMMARY:Monterey LT 0.6ft @ 4:24PM
+UID:39b692e3-9578-4b9c-baa5-dfdcc03bd5e8@39b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:06PM to 6:48PM\n\n    Sunrise is at 7:03AM\n    Sunset is at 5:41PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240209T013000Z
+DTSTART:20240208T210000Z
+SUMMARY:Monterey LT -1.5ft @ 3:48PM
+UID:08a5a60b-c42a-43fd-90a4-a4e594a9274b@08a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:30PM to 6:00PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 5:22PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240123T013000Z
+DTSTART:20240122T203000Z
+SUMMARY:Monterey LT -0.9ft @ 3:06PM
+UID:866f64b2-73fb-4e58-a894-91987028af16@866f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:30AM to 3:24PM\n\n    Sunrise is at 6:32AM\n    Sunset is at 7:43PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240416T223000Z
+DTSTART:20240416T173000Z
+SUMMARY:Monterey LT -0.1ft @ 12:54PM
+UID:c47a3fa7-d501-4c02-9ee4-340135975745@c47a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:48AM to 10:00AM\n\n    Sunrise is at 5:57AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240708T170000Z
+DTSTART:20240708T130000Z
+SUMMARY:Monterey LT -0.7ft @ 7:18AM
+UID:b07d9979-7f82-4331-97de-5fbacaf967e0@b07d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:54AM to 9:48AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240623T170000Z
+DTSTART:20240623T130000Z
+SUMMARY:Monterey LT -1.3ft @ 6:42AM
+UID:4fa16040-a4cc-4434-ad8d-72c0d535f485@4fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:24PM to 6:12PM\n\n    Sunrise is at 7:04AM\n    Sunset is at 5:39PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240208T013000Z
+DTSTART:20240207T203000Z
+SUMMARY:Monterey LT -1.2ft @ 3:12PM
+UID:1da93ef3-50f4-4d29-81ae-21ab02f519a4@1da9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:54AM to 10:18AM\n\n    Sunrise is at 6:38AM\n    Sunset is at 7:39PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240411T173000Z
+DTSTART:20240411T133000Z
+SUMMARY:Monterey LT -1.0ft @ 7:30AM
+UID:c22d2d43-bcfa-46cf-942f-99894334e9f7@c22d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:18PM to 6:18PM\n\n    Sunrise is at 7:07AM\n    Sunset is at 7:22PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240323T013000Z
+DTSTART:20240322T213000Z
+SUMMARY:Monterey LT -0.0ft @ 4:18PM
+UID:45ad5501-8a00-4d4f-921c-35056a434fe5@45ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:54AM to 12:30PM\n\n    Sunrise is at 6:36AM\n    Sunset is at 7:41PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240413T193000Z
+DTSTART:20240413T140000Z
+SUMMARY:Monterey LT -0.6ft @ 9:36AM
+UID:29ed9237-05ea-488e-8e5e-c3e18c6ac40a@29ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:06AM to 8:30AM\n\n    Sunrise is at 7:22AM\n    Sunset is at 7:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240312T153000Z
+DTSTART:20240312T143000Z
+SUMMARY:Monterey LT 0.1ft @ 6:48AM
+UID:08544f86-594f-4fd6-a0e1-60dbc510736b@0854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:48AM to 8:18AM\n\n    Sunrise is at 6:32AM\n    Sunset is at 7:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240823T153000Z
+DTSTART:20240823T140000Z
+SUMMARY:Monterey LT 0.8ft @ 7:36AM
+UID:1481fd8e-a709-45e9-a1ba-2cefc895e012@1481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:54PM to 8:36PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 6:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241019T013000Z
+DTSTART:20241018T230000Z
+SUMMARY:Monterey LT -0.8ft @ 6:12PM
+UID:ac44d9e2-3693-43bf-94c5-7fc1e7aaa9f0@ac44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:06PM to 8:00PM\n\n    Sunrise is at 7:13AM\n    Sunset is at 4:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241216T010000Z
+DTSTART:20241215T220000Z
+SUMMARY:Monterey LT -1.6ft @ 4:54PM
+UID:175e72ff-0f58-45a8-bf74-adb115a59cdf@175e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:36AM to 8:18AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240621T153000Z
+DTSTART:20240621T130000Z
+SUMMARY:Monterey LT -1.0ft @ 5:18AM
+UID:d823a466-beec-4297-bdd9-a6f3e8e20153@d823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42PM to 8:12PM\n\n    Sunrise is at 6:34AM\n    Sunset is at 5:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241104T010000Z
+DTSTART:20241103T233000Z
+SUMMARY:Monterey LT -0.1ft @ 5:54PM
+UID:22efff22-7d21-43a5-9453-afedcd6b66a6@22ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42PM to 8:18PM\n\n    Sunrise is at 7:13AM\n    Sunset is at 5:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240128T013000Z
+DTSTART:20240127T233000Z
+SUMMARY:Monterey LT -0.3ft @ 5:54PM
+UID:73a82fd8-01c3-4d5f-bdc5-d63f9eb7fd3a@73a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:42AM to 6:30AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240619T133000Z
+DTSTART:20240619T130000Z
+SUMMARY:Monterey LT -0.3ft @ 4:00AM
+UID:88f2a026-8555-4c1a-8600-e407b8418438@88f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:06AM to 11:24AM\n\n    Sunrise is at 6:55AM\n    Sunset is at 7:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240330T183000Z
+DTSTART:20240330T140000Z
+SUMMARY:Monterey LT 0.2ft @ 9:06AM
+UID:e13d2ceb-6b13-4240-97b9-9687d113c429@e13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:48AM to 5:24PM\n\n    Sunrise is at 7:05AM\n    Sunset is at 5:38PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240207T013000Z
+DTSTART:20240206T200000Z
+SUMMARY:Monterey LT -0.8ft @ 2:30PM
+UID:d1d3a708-1aa7-499a-b476-632e07205900@d1d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:00AM to 2:18PM\n\n    Sunrise is at 6:53AM\n    Sunset is at 7:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240401T213000Z
+DTSTART:20240401T160000Z
+SUMMARY:Monterey LT -0.1ft @ 11:30AM
+UID:bb62e66a-cb7a-417e-83d9-1fd1879d18ec@bb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:06AM to 9:36AM\n\n    Sunrise is at 5:56AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240707T163000Z
+DTSTART:20240707T130000Z
+SUMMARY:Monterey LT -1.0ft @ 6:42AM
+UID:9a0f7c95-3602-4e67-be6b-eff3f7a6451e@9a0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:42AM to 8:48AM\n\n    Sunrise is at 6:18AM\n    Sunset is at 8:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240806T160000Z
+DTSTART:20240806T133000Z
+SUMMARY:Monterey LT -0.1ft @ 6:42AM
+UID:9a462bf2-694f-4085-ae14-acfb1bc36e82@9a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:48PM to 9:12PM\n\n    Sunrise is at 7:04AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241204T010000Z
+DTSTART:20241204T000000Z
+SUMMARY:Monterey LT -0.7ft @ 6:18PM
+UID:9c132ab7-0a6e-48f9-b69e-f9fe0c6fcb50@9c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:12PM to 5:06PM\n\n    Sunrise is at 7:11AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241213T010000Z
+DTSTART:20241212T200000Z
+SUMMARY:Monterey LT -0.7ft @ 2:30PM
+UID:80a94a69-e20b-48f8-b6c3-0ca61cf3c913@80a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:18AM to 8:12AM\n\n    Sunrise is at 6:17AM\n    Sunset is at 8:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240804T150000Z
+DTSTART:20240804T133000Z
+SUMMARY:Monterey LT -0.7ft @ 5:42AM
+UID:25967fe6-da81-45c2-84cb-b1166bb31dcf@2596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:18AM to 9:00AM\n\n    Sunrise is at 5:56AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240706T160000Z
+DTSTART:20240706T130000Z
+SUMMARY:Monterey LT -1.2ft @ 6:06AM
+UID:6be19086-8542-496d-9b99-854511ba065d@6be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:00AM to 8:24AM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:15PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240523T153000Z
+DTSTART:20240523T130000Z
+SUMMARY:Monterey LT -0.7ft @ 5:36AM
+UID:3428ce57-fdc5-4481-9f75-9e1b0ee3f35c@3428.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:24AM to 1:48PM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240601T210000Z
+DTSTART:20240601T183000Z
+SUMMARY:Monterey LT 0.7ft @ 12:42PM
+UID:d9dc1906-6856-44c8-a935-a58bb2a4a483@d9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:36PM to 6:06PM\n\n    Sunrise is at 7:00AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241130T010000Z
+DTSTART:20241129T213000Z
+SUMMARY:Monterey LT -0.2ft @ 3:42PM
+UID:a40940fd-2116-4d0a-8c47-2f0a8d19014e@a409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:48PM to 7:12PM\n\n    Sunrise is at 7:15AM\n    Sunset is at 5:24PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240125T013000Z
+DTSTART:20240124T220000Z
+SUMMARY:Monterey LT -0.9ft @ 4:24PM
+UID:05918a99-0e04-4139-8ad5-264f34b53205@0591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24PM to 8:30PM\n\n    Sunrise is at 7:13AM\n    Sunset is at 5:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240129T013000Z
+DTSTART:20240129T003000Z
+SUMMARY:Monterey LT 0.0ft @ 6:24PM
+UID:6b1c420e-daaf-412a-bd50-d8de08116ac9@6b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:18PM to 6:30PM\n\n    Sunrise is at 6:53AM\n    Sunset is at 7:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240919T013000Z
+DTSTART:20240918T233000Z
+SUMMARY:Monterey LT 0.6ft @ 5:24PM
+UID:77274889-86cd-444e-a0d3-2ba226db4be2@7727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:42AM to 9:48AM\n\n    Sunrise is at 6:19AM\n    Sunset is at 7:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240426T170000Z
+DTSTART:20240426T133000Z
+SUMMARY:Monterey LT -0.5ft @ 7:06AM
+UID:8c75364e-bd61-44f3-81c5-38c816c3ff65@8c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:48AM to 3:54PM\n\n    Sunrise is at 6:53AM\n    Sunset is at 5:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240219T000000Z
+DTSTART:20240218T190000Z
+SUMMARY:Monterey LT -0.3ft @ 1:12PM
+UID:0e2b57f8-975e-4db9-b4e5-0a327fdd2bee@0e2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:18PM to 5:30PM\n\n    Sunrise is at 6:50AM\n    Sunset is at 5:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240221T013000Z
+DTSTART:20240220T203000Z
+SUMMARY:Monterey LT -0.6ft @ 2:48PM
+UID:907f8aec-10b6-474b-a92e-cae518994d81@907f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:36PM to 9:06PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 5:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240114T010000Z
+DTSTART:20240113T233000Z
+SUMMARY:Monterey LT -1.3ft @ 6:18PM
+UID:5d1f8ca1-a0b0-40ae-8090-647257b5f7bf@5d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42PM to 6:30PM\n\n    Sunrise is at 7:04AM\n    Sunset is at 7:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240325T013000Z
+DTSTART:20240324T223000Z
+SUMMARY:Monterey LT 0.5ft @ 5:06PM
+UID:3206a85e-ccd2-4f33-8a06-5cdf88611914@3206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:12AM to 8:12AM\n\n    Sunrise is at 7:00AM\n    Sunset is at 7:26PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240327T150000Z
+DTSTART:20240327T140000Z
+SUMMARY:Monterey LT 0.5ft @ 6:42AM
+UID:eb04b527-f3ee-46e8-b7f4-b869e3536ba1@eb04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24PM to 7:54PM\n\n    Sunrise is at 7:23AM\n    Sunset is at 7:12PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240312T020000Z
+DTSTART:20240311T233000Z
+SUMMARY:Monterey LT 0.0ft @ 6:06PM
+UID:7d33f17f-1665-4fa0-a3d1-7fcc0ca5cd94@7d33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:06AM to 12:54PM\n\n    Sunrise is at 6:15AM\n    Sunset is at 7:55PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240429T200000Z
+DTSTART:20240429T140000Z
+SUMMARY:Monterey LT -0.5ft @ 9:48AM
+UID:34418215-98b1-45ab-8541-94e0d58eb1a2@3441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:24AM to 10:24AM\n\n    Sunrise is at 6:04AM\n    Sunset is at 8:04PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240510T173000Z
+DTSTART:20240510T130000Z
+SUMMARY:Monterey LT -1.4ft @ 7:18AM
+UID:24807ef9-f562-424a-b561-055549412198@2480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:48AM to 12:18PM\n\n    Sunrise is at 5:48AM\n    Sunset is at 8:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240612T193000Z
+DTSTART:20240612T150000Z
+SUMMARY:Monterey LT 0.1ft @ 10:00AM
+UID:8bd6fedc-2be4-4205-a705-a6294ac76c4a@8bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:30AM to 8:54AM\n\n    Sunrise is at 6:19AM\n    Sunset is at 8:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240807T160000Z
+DTSTART:20240807T133000Z
+SUMMARY:Monterey LT 0.3ft @ 7:12AM
+UID:80ae15b9-ef98-4fe9-8b67-bf61eb8a8b5d@80ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:48PM to 2:42PM\n\n    Sunrise is at 6:43AM\n    Sunset is at 5:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241112T223000Z
+DTSTART:20241112T210000Z
+SUMMARY:Monterey LT 0.7ft @ 1:42PM
+UID:d1c58f49-8173-49d0-bb16-f20cdc068562@d1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:42AM to 9:30AM\n\n    Sunrise is at 6:05AM\n    Sunset is at 8:03PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240509T163000Z
+DTSTART:20240509T130000Z
+SUMMARY:Monterey LT -1.5ft @ 6:24AM
+UID:662fe290-2e66-463f-a7c6-f19daec1e9cf@662f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:42AM to 11:42AM\n\n    Sunrise is at 5:52AM\n    Sunset is at 8:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240527T183000Z
+DTSTART:20240527T130000Z
+SUMMARY:Monterey LT -1.0ft @ 8:30AM
+UID:18a31589-8c39-43f9-aa73-ef1b62dd57ff@18a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:24PM to 3:54PM\n\n    Sunrise is at 6:10AM\n    Sunset is at 7:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240504T230000Z
+DTSTART:20240504T193000Z
+SUMMARY:Monterey LT 0.2ft @ 2:12PM
+UID:2400a85b-7c07-467e-9c90-7dbfc7bdcddf@2400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:54AM to 11:48AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240614T190000Z
+DTSTART:20240614T180000Z
+SUMMARY:Monterey LT 1.0ft @ 11:24AM
+UID:7080433f-4310-43cc-a3d0-7ce372059a1c@7080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:36AM to 8:24AM\n\n    Sunrise is at 5:55AM\n    Sunset is at 8:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240705T153000Z
+DTSTART:20240705T130000Z
+SUMMARY:Monterey LT -1.2ft @ 5:24AM
+UID:d29c16c2-aadb-40e1-b493-24278b065975@d29c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:06PM to 8:24PM\n\n    Sunrise is at 7:03AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241203T010000Z
+DTSTART:20241202T230000Z
+SUMMARY:Monterey LT -0.7ft @ 5:36PM
+UID:6d3f73dd-49d6-49ab-b6fa-46552c67c6a7@6d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:48AM to 9:48AM\n\n    Sunrise is at 7:20AM\n    Sunset is at 7:14PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240313T170000Z
+DTSTART:20240313T143000Z
+SUMMARY:Monterey LT -0.1ft @ 7:42AM
+UID:2c389cd1-e646-49ce-b472-e9ab3695cc6e@2c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:42AM to 11:06AM\n\n    Sunrise is at 7:19AM\n    Sunset is at 7:15PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240314T180000Z
+DTSTART:20240314T143000Z
+SUMMARY:Monterey LT -0.1ft @ 8:48AM
+UID:0b875eb0-622c-4f69-953e-a794424a4d6e@0b87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:18AM to 8:36AM\n\n    Sunrise is at 6:31AM\n    Sunset is at 7:49PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240822T153000Z
+DTSTART:20240822T133000Z
+SUMMARY:Monterey LT 0.1ft @ 6:54AM
+UID:fe27b6e2-9f86-4073-9c22-f54c485eb0b6@fe27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:36AM to 12:06PM\n\n    Sunrise is at 7:18AM\n    Sunset is at 5:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240118T200000Z
+DTSTART:20240118T183000Z
+SUMMARY:Monterey LT 0.9ft @ 11:18AM
+UID:6ed87ead-e330-4910-81b6-22c2f9c7a97b@6ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:12AM to 4:18PM\n\n    Sunrise is at 7:13AM\n    Sunset is at 7:18PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240318T233000Z
+DTSTART:20240318T180000Z
+SUMMARY:Monterey LT -0.3ft @ 1:42PM
+UID:d879a58f-47c9-4797-b9ba-e313868318e9@d879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:30AM to 1:00PM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240529T200000Z
+DTSTART:20240529T143000Z
+SUMMARY:Monterey LT -0.6ft @ 10:12AM
+UID:e4446f9f-071a-425f-8c44-52cfc59b46ae@e444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:12PM to 2:24PM\n\n    Sunrise is at 5:58AM\n    Sunset is at 8:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240517T213000Z
+DTSTART:20240517T190000Z
+SUMMARY:Monterey LT 0.8ft @ 1:18PM
+UID:a5991bd8-08da-462b-a768-5beba9d32087@a599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:12PM to 4:00PM\n\n    Sunrise is at 6:58AM\n    Sunset is at 4:53PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241128T000000Z
+DTSTART:20241127T210000Z
+SUMMARY:Monterey LT 0.6ft @ 2:36PM
+UID:6d6000f2-ef0e-4127-ae36-bc56344e9a75@6d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:30AM to 8:42AM\n\n    Sunrise is at 6:20AM\n    Sunset is at 8:06PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240808T153000Z
+DTSTART:20240808T133000Z
+SUMMARY:Monterey LT 0.7ft @ 7:36AM
+UID:6df35ba0-fe34-4962-bdfe-b3dabcf76278@6df3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:54AM to 11:06AM\n\n    Sunrise is at 6:36AM\n    Sunset is at 6:04PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240302T190000Z
+DTSTART:20240302T170000Z
+SUMMARY:Monterey LT 0.8ft @ 9:54AM
+UID:b5bbe13b-843e-4abf-9630-4b0c99b5f2a1@b5bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:24AM to 1:18PM\n\n    Sunrise is at 6:35AM\n    Sunset is at 6:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240303T213000Z
+DTSTART:20240303T173000Z
+SUMMARY:Monterey LT 0.5ft @ 11:12AM
+UID:3a15b8df-65ca-4c8a-a8d8-76eec07764e0@3a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:00PM to 5:30PM\n\n    Sunrise is at 6:29AM\n    Sunset is at 6:08PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240308T013000Z
+DTSTART:20240307T200000Z
+SUMMARY:Monterey LT -1.1ft @ 2:36PM
+UID:7060189b-3ef3-4405-8071-eb3e579cb5f7@7060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:30AM to 6:42AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240604T133000Z
+DTSTART:20240604T130000Z
+SUMMARY:Monterey LT -0.9ft @ 3:54AM
+UID:6639a796-b0ea-4fb4-b9c5-8272f9aefd3c@6639.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:00AM to 7:12AM\n\n    Sunrise is at 6:41AM\n    Sunset is at 7:32PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240903T140000Z
+DTSTART:20240903T133000Z
+SUMMARY:Monterey LT 0.3ft @ 5:30AM
+UID:a9f23570-3f6a-49fc-b1a1-c6db17e50b23@a9f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:42PM to 7:42PM\n\n    Sunrise is at 7:22AM\n    Sunset is at 7:13PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240313T020000Z
+DTSTART:20240313T003000Z
+SUMMARY:Monterey LT 0.7ft @ 6:42PM
+UID:f8664eb5-c1b4-4090-bf94-86ff053aec9c@f866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24PM to 7:42PM\n\n    Sunrise is at 7:25AM\n    Sunset is at 7:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240311T020000Z
+DTSTART:20240310T223000Z
+SUMMARY:Monterey LT -0.6ft @ 5:30PM
+UID:72a85919-e164-48c4-bff3-b2905e4ad4d5@72a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:30PM to 7:18PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:10PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240111T010000Z
+DTSTART:20240110T213000Z
+SUMMARY:Monterey LT -1.4ft @ 4:12PM
+UID:a9bf1f3f-7553-4bc2-a59c-53d5b7241e1d@a9bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:36AM to 10:30AM\n\n    Sunrise is at 5:50AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240624T173000Z
+DTSTART:20240624T130000Z
+SUMMARY:Monterey LT -1.3ft @ 7:24AM
+UID:e32c2200-8661-4b19-92f9-17a2a4475f49@e32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:54AM to 7:36AM\n\n    Sunrise is at 5:55AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240704T143000Z
+DTSTART:20240704T130000Z
+SUMMARY:Monterey LT -1.2ft @ 4:36AM
+UID:a5e3a553-568e-4f6d-81fe-e9379491b576@a5e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:00PM to 6:54PM\n\n    Sunrise is at 7:01AM\n    Sunset is at 4:52PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241201T010000Z
+DTSTART:20241130T220000Z
+SUMMARY:Monterey LT -0.4ft @ 4:18PM
+UID:9ce63d6b-ffb8-4e9b-b23f-217bc442107b@9ce6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:36AM to 9:06AM\n\n    Sunrise is at 6:06AM\n    Sunset is at 8:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240722T160000Z
+DTSTART:20240722T130000Z
+SUMMARY:Monterey LT -1.3ft @ 6:18AM
+UID:607ac3e8-4080-44a5-a064-fe5bb1458d33@607a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:42PM to 4:30PM\n\n    Sunrise is at 6:44AM\n    Sunset is at 5:00PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241114T003000Z
+DTSTART:20241113T203000Z
+SUMMARY:Monterey LT -0.1ft @ 2:36PM
+UID:8b5353dd-5ba2-4841-a255-676d42d803ea@8b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:06AM to 10:54AM\n\n    Sunrise is at 6:56AM\n    Sunset is at 5:48PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240215T190000Z
+DTSTART:20240215T160000Z
+SUMMARY:Monterey LT 0.6ft @ 9:30AM
+UID:096c6300-1c5b-43c5-baa7-49efcf5decdd@096c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:36PM to 7:48PM\n\n    Sunrise is at 7:01AM\n    Sunset is at 5:43PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240211T013000Z
+DTSTART:20240210T223000Z
+SUMMARY:Monterey LT -1.3ft @ 5:06PM
+UID:a8a7f76a-80c7-431c-bae2-e8d8afe2f136@a8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:54PM to 6:30PM\n\n    Sunrise is at 7:06AM\n    Sunset is at 7:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240324T013000Z
+DTSTART:20240323T220000Z
+SUMMARY:Monterey LT 0.2ft @ 4:42PM
+UID:f0fcc925-1674-4c78-96a8-b1a528d08f83@f0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:18AM to 10:12AM\n\n    Sunrise is at 6:57AM\n    Sunset is at 7:28PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240329T170000Z
+DTSTART:20240329T140000Z
+SUMMARY:Monterey LT 0.3ft @ 8:12AM
+UID:f9c133a4-b245-44cf-b313-e581f245367f@f9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:36AM to 7:42AM\n\n    Sunrise is at 6:16AM\n    Sunset is at 8:11PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240803T143000Z
+DTSTART:20240803T133000Z
+SUMMARY:Monterey LT -0.8ft @ 5:06AM
+UID:d38c7195-e4a7-495b-8fd2-9be5f76ccef4@d38c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:06PM to 5:06PM\n\n    Sunrise is at 7:12AM\n    Sunset is at 7:19PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240320T000000Z
+DTSTART:20240319T190000Z
+SUMMARY:Monterey LT -0.3ft @ 2:30PM
+UID:11ccb619-90c8-4635-9ae5-ef049e7704a1@11cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:12AM to 11:48AM\n\n    Sunrise is at 6:17AM\n    Sunset is at 7:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240428T190000Z
+DTSTART:20240428T133000Z
+SUMMARY:Monterey LT -0.5ft @ 8:48AM
+UID:d1071a76-903c-49f5-a937-420a15864121@d107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:42PM to 6:00PM\n\n    Sunrise is at 6:28AM\n    Sunset is at 6:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240309T020000Z
+DTSTART:20240308T203000Z
+SUMMARY:Monterey LT -1.2ft @ 3:18PM
+UID:b82ad43d-c96e-4982-a046-630c08d3b10a@b82a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:42PM to 6:54PM\n\n    Sunrise is at 6:46AM\n    Sunset is at 4:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241116T010000Z
+DTSTART:20241115T213000Z
+SUMMARY:Monterey LT -1.2ft @ 4:12PM
+UID:5c24d9e8-119a-4807-8568-3fc537e3a05a@5c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:06AM to 1:48PM\n\n    Sunrise is at 6:14AM\n    Sunset is at 7:56PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240430T210000Z
+DTSTART:20240430T150000Z
+SUMMARY:Monterey LT -0.5ft @ 10:54AM
+UID:b0b9d122-db38-4f1d-b5aa-f3bc6a6d60a4@b0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:18AM to 11:48AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240627T190000Z
+DTSTART:20240627T143000Z
+SUMMARY:Monterey LT -0.3ft @ 9:36AM
+UID:102d7c7e-04db-4d2f-ba10-d26703757aee@102d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:06AM to 8:54AM\n\n    Sunrise is at 6:20AM\n    Sunset is at 7:51PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240425T160000Z
+DTSTART:20240425T133000Z
+SUMMARY:Monterey LT -0.4ft @ 6:24AM
+UID:2b64d1d7-64cf-479c-91a4-526b3569a88c@2b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:12PM to 8:18PM\n\n    Sunrise is at 7:33AM\n    Sunset is at 6:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241103T010000Z
+DTSTART:20241102T230000Z
+SUMMARY:Monterey LT -0.0ft @ 6:12PM
+UID:12ec4b43-c7d0-4f71-8d2a-c4ddb1d2e1d2@12ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 8:06AM to 1:36PM\n\n    Sunrise is at 6:34AM\n    Sunset is at 7:42PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240414T203000Z
+DTSTART:20240414T150000Z
+SUMMARY:Monterey LT -0.4ft @ 10:42AM
+UID:87b28bbb-af6e-4ead-a9ec-4cffe11e2c5d@87b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:00AM to 2:00PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 7:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240316T210000Z
+DTSTART:20240316T160000Z
+SUMMARY:Monterey LT -0.1ft @ 11:24AM
+UID:e6c11e8c-d42d-403b-a6d0-2e6d0d406a54@e6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:18AM to 11:30AM\n\n    Sunrise is at 5:51AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240626T183000Z
+DTSTART:20240626T133000Z
+SUMMARY:Monterey LT -0.8ft @ 8:48AM
+UID:b296725c-d0b7-43fd-abb4-d89fb204d7b8@b296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:00AM to 7:42AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240605T143000Z
+DTSTART:20240605T130000Z
+SUMMARY:Monterey LT -1.3ft @ 4:42AM
+UID:eaf28254-ccbe-4ca7-a1f7-c671040a281d@eaf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:18AM to 7:54AM\n\n    Sunrise is at 6:05AM\n    Sunset is at 8:23PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240720T150000Z
+DTSTART:20240720T130000Z
+SUMMARY:Monterey LT -1.0ft @ 5:00AM
+UID:cab47079-b3cb-458f-b41a-e772d8c38a93@cab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:00AM to 8:30AM\n\n    Sunrise is at 6:06AM\n    Sunset is at 8:03PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240508T153000Z
+DTSTART:20240508T130000Z
+SUMMARY:Monterey LT -1.3ft @ 5:36AM
+UID:70c553ca-cfe5-46df-98d1-30338a5f3cba@70c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 6:18PM to 10:24PM\n\n    Sunrise is at 6:55AM\n    Sunset is at 7:05PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240922T020000Z
+DTSTART:20240922T013000Z
+SUMMARY:Monterey LT -0.1ft @ 8:18PM
+UID:e91499ee-b8af-42c7-8216-1fe1c9894e5c@e914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:48PM to 7:00PM\n\n    Sunrise is at 6:45AM\n    Sunset is at 5:57PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240225T020000Z
+DTSTART:20240224T230000Z
+SUMMARY:Monterey LT -0.2ft @ 4:48PM
+UID:debbebd2-9e24-42bf-beb2-3aab24455fae@debb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:00AM to 8:36AM\n\n    Sunrise is at 6:17AM\n    Sunset is at 8:09PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240805T153000Z
+DTSTART:20240805T133000Z
+SUMMARY:Monterey LT -0.4ft @ 6:12AM
+UID:5217d27d-d9f4-405a-8ceb-e6c555a525bb@5217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 9:18AM to 2:36PM\n\n    Sunrise is at 6:33AM\n    Sunset is at 7:42PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240415T213000Z
+DTSTART:20240415T163000Z
+SUMMARY:Monterey LT -0.2ft @ 11:54AM
+UID:414a264a-3e73-40e4-ab55-47eb068f24c0@414a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:12AM to 10:00AM\n\n    Sunrise is at 6:08AM\n    Sunset is at 8:20PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240724T170000Z
+DTSTART:20240724T130000Z
+SUMMARY:Monterey LT -0.7ft @ 7:36AM
+UID:1441979a-a3ac-458e-b2bc-e012d9efb362@1441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:24AM to 9:24AM\n\n    Sunrise is at 5:49AM\n    Sunset is at 8:25PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240607T163000Z
+DTSTART:20240607T130000Z
+SUMMARY:Monterey LT -1.5ft @ 6:18AM
+UID:83eb29cd-f841-4f29-a790-a3442f66f637@83eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:54PM to 8:42PM\n\n    Sunrise is at 7:14AM\n    Sunset is at 4:54PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241217T010000Z
+DTSTART:20241216T230000Z
+SUMMARY:Monterey LT -1.4ft @ 5:42PM
+UID:b283727a-148c-42fd-b738-559b2af7fd3b@b283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 10:12AM to 3:12PM\n\n    Sunrise is at 6:12AM\n    Sunset is at 7:57PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240502T220000Z
+DTSTART:20240502T170000Z
+SUMMARY:Monterey LT -0.4ft @ 12:42PM
+UID:814ad061-c4ad-41a7-ba96-56afafbd519e@814a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:06PM to 7:36PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:01PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241231T010000Z
+DTSTART:20241230T220000Z
+SUMMARY:Monterey LT -1.0ft @ 4:42PM
+UID:76524d8c-b97c-4773-90ec-ba5533c7963f@7652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 3:36PM to 6:06PM\n\n    Sunrise is at 6:42AM\n    Sunset is at 7:36PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240409T010000Z
+DTSTART:20240408T223000Z
+SUMMARY:Monterey LT 0.5ft @ 4:54PM
+UID:c7cd6425-09ea-4cef-bf03-2c8f985dd893@c7cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:36PM to 6:06PM\n\n    Sunrise is at 7:09AM\n    Sunset is at 7:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240322T010000Z
+DTSTART:20240321T203000Z
+SUMMARY:Monterey LT -0.2ft @ 3:48PM
+UID:d5bf63c9-41ef-4416-8a0f-264d05886b11@d5bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 5:18PM to 7:36PM\n\n    Sunrise is at 7:06AM\n    Sunset is at 6:46PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241005T013000Z
+DTSTART:20241005T003000Z
+SUMMARY:Monterey LT 0.7ft @ 6:24PM
+UID:25d5bc22-7b86-4c43-b089-59e7d3829462@25d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 4:12AM to 10:00AM\n\n    Sunrise is at 5:53AM\n    Sunset is at 8:16PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240525T170000Z
+DTSTART:20240525T130000Z
+SUMMARY:Monterey LT -1.0ft @ 7:00AM
+UID:dd80aa10-0fc7-451e-b707-c4039ecf9441@dd80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:42PM to 5:12PM\n\n    Sunrise is at 7:19AM\n    Sunset is at 4:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241228T010000Z
+DTSTART:20241227T203000Z
+SUMMARY:Monterey LT -0.1ft @ 2:54PM
+UID:b64a9918-8447-43f3-8afc-a9c96a141628@b64a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:30AM to 10:30AM\n\n    Sunrise is at 5:59AM\n    Sunset is at 8:27PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240711T173000Z
+DTSTART:20240711T143000Z
+SUMMARY:Monterey LT 0.5ft @ 9:00AM
+UID:f0c6c174-7588-43a4-b45d-9b5a052085b9@f0c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:54PM to 8:36PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:12PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240113T010000Z
+DTSTART:20240112T230000Z
+SUMMARY:Monterey LT -1.6ft @ 5:36PM
+UID:9cf01d7d-f84f-414e-9d85-1031f09206a1@9cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:54AM to 5:06PM\n\n    Sunrise is at 7:17AM\n    Sunset is at 5:21PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240122T010000Z
+DTSTART:20240121T200000Z
+SUMMARY:Monterey LT -0.6ft @ 2:24PM
+UID:fb2c093a-dc41-409a-a0b8-7aad30ce9a4c@fb2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 2:48PM to 6:06PM\n\n    Sunrise is at 7:16AM\n    Sunset is at 6:29PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241017T010000Z
+DTSTART:20241016T220000Z
+SUMMARY:Monterey LT 0.1ft @ 4:24PM
+UID:355c0e5e-a5da-4d5d-9f78-9cda8e8635d5@355c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 7:24AM to 8:54AM\n\n    Sunrise is at 6:57AM\n    Sunset is at 5:47PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240214T170000Z
+DTSTART:20240214T153000Z
+SUMMARY:Monterey LT 0.8ft @ 8:06AM
+UID:d6b903eb-f4f7-4003-a11c-e2e17e35f26d@d6b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 12:00PM to 4:36PM\n\n    Sunrise is at 7:20AM\n    Sunset is at 5:07PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240108T003000Z
+DTSTART:20240107T200000Z
+SUMMARY:Monterey LT -0.1ft @ 2:12PM
+UID:75ee6abc-0e11-450d-81c7-fe3000e54838@75ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:18AM to 6:48AM\n\n    Sunrise is at 5:54AM\n    Sunset is at 8:30PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240703T140000Z
+DTSTART:20240703T130000Z
+SUMMARY:Monterey LT -0.9ft @ 3:54AM
+UID:a9dc3f69-ad39-4efd-8bbf-37730411359b@a9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 1:06PM to 5:48PM\n\n    Sunrise is at 6:45AM\n    Sunset is at 4:59PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20241115T010000Z
+DTSTART:20241114T210000Z
+SUMMARY:Monterey LT -0.7ft @ 3:24PM
+UID:af66cadd-a427-4ebe-84d3-a320004c45f2@af66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tide is <1.0ft from 11:18AM to 3:36PM\n\n    Sunrise is at 6:11AM\n    Sunset is at 7:58PM\n\n    Tide predictions from: https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9414131\n    Sunrise/sunset from: https://gml.noaa.gov/grad/solcalc/table.php?lat=37.77&lon=-122.42&year=2022\n    
+DTEND:20240503T223000Z
+DTSTART:20240503T183000Z
+SUMMARY:Monterey LT -0.2ft @ 1:30PM
+UID:eebdaaaf-91af-44e2-81b7-aa21c59dc12d@eebd.org
+END:VEVENT
+END:VCALENDAR
